@@ -21,7 +21,7 @@
 //================================================================================================================================================
 
 {"key": "9E03","name":"9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
-{"key": "77-JS","name": "77[JS]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/kunyu77.js"},
+{"key": "77-JS","name": "77[JS]","type": 3,"api": "https://ddys001.github.io/tvbox2/json/kunyu77.js"},
 {"key":"mtv_pc乐猪影视","name":"乐猪影视","type":3,"api":"csp_Lezhu" ,"filterable":1,"quickSearch":1,"searchable":1}, 
 {"key":"mtv_pc_小苹果","name":"小小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_利奥影视","name":"利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
