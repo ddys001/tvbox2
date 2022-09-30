@@ -271,7 +271,7 @@
 
 //直播
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vamFzb242ODY4L2RkeXMvcmF3L21hc3Rlci9qb24vemhpYm95dWFuLnR4dA=="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8yMzM1MC8lRTclOUIlQjQlRTYlOTIlQUQlRTYlQkElOTAudHh0P3NpZ249b3JtR2J2VTQ0Y3hKdlRiNzZCUFpMbm9MSEVGeWZqVGtYQk5xUXpOVzJIYyUzRCUzQTA="]}]}],
 
 //解码
 
