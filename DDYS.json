@@ -271,7 +271,7 @@
 
 //直播
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://ddys001.github.io/tvbox2/live/直播源.txt"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kZHlzMDAxLmdpdGh1Yi5pby90dmJveDIvbGl2ZS/nm7Tmkq3mupAudHh0"]}]}],
 
 //解码
 
