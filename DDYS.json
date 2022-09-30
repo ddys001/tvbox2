@@ -10,13 +10,13 @@
     "filterable":0},
 //================================================================================================================================================
 		
-{"key": "生活","name": "人间生活","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/23343/%E4%BA%BA%E9%97%B4%E7%94%9F%E6%B4%BB.json?sign=UoasVGbaNGLrb14i97WKFK4D-BFrsbR8Ixcgf63gDMM%3D%3A0","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/zlm-0828.jar"},
-{"key": "动漫","name": "卡通动漫","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/jason6868/ddys/raw/master/jon/dongman.json"},
-{"key": "戏曲","name": "戏曲民间","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/jason6868/ddys/raw/master/jon/xiqu.json","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/zlm-0828.jar"},
-{"key": "csp_Bili","name":"相声小品","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/jason6868/ddys/raw/master/jon/xiangsheng.json","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/zlm-0828.jar"},
-{"key": "学堂","name": "豆豆学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/jason6868/ddys/raw/master/jon/xuetang.json","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/zlm-0828.jar"},
-{"key": "音乐","name": "音乐MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/jason6868/ddys/raw/master/jon/yinyue.json"},
-{"key": "学习","name": "煊宝课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/jason6868/ddys/raw/master/jon/xuexiketang.json"},
+{"key": "生活","name": "人间生活","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/人间生活.json","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/zlm-0828.jar"},
+{"key": "动漫","name": "卡通动漫","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "hhttps://ddys001.github.io/tvbox2/json2/动漫.json"},
+{"key": "戏曲","name": "戏曲民间","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/戏曲.json","jar":"https://ddys001.github.io/tvbox2/jar/zlm-0828.jar"},
+{"key": "csp_Bili","name":"相声小品","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext":"https://ddys001.github.io/tvbox2/json2/相声.json","jar":"https://ddys001.github.io/tvbox2/jar/zlm-0828.jar"},
+{"key": "学堂","name": "豆豆学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/学堂.json","jar":"https://ddys001.github.io/tvbox2/jar/zlm-0828.jar"},
+{"key": "音乐","name": "音乐MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/音乐演唱.json"},
+{"key": "学习","name": "煊宝课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/学习课堂.json"},
 {"key": "教程","name": "教程合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/m0_73480297/box/-/raw/master/json/%E6%95%99%E7%A8%8B%E5%90%88%E9%9B%86.json?inline=false"},
 //================================================================================================================================================
 
