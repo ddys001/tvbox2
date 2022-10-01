@@ -6,7 +6,9 @@
         {"key":"空格","name":"--------------------------","ext":"/","date":" "},        
 
         {"key":"豆豆家庭","name":"❤豆豆影视❤〔纯绿色家庭版〕","ext":"https://gitee.com/jason6868/ddys/raw/master/joon/DDYS.json","date":"2022-09-14 14:52:05" },       
+        {"key":"豆豆家庭2","name":"❤豆豆影视❤〔纯绿色备用版〕","ext":"https://ddys001.github.io/tvbox2/DDYS.json","date":"2022-09-14 14:52:05" },       
         {"key":"豆豆网络","name":"豆豆网络〔免解析〕","ext":"https://gitee.com/jason6868/ddys/raw/master/json/%E8%B1%86%E8%B1%86%E7%BD%91%E7%BB%9C%E5%85%8D%E8%A7%A3%E6%9E%90.json","date":"2022-09-29 11:52:05" },
+        {"key":"豆豆网络2","name":"豆豆网络〔2免解析〕","ext":"https://ddys001.github.io/tvbox2/live/ddys-免解.json.json","date":"2022-09-29 11:52:05" },
         {"key":"晴园","name":"晴园〔纯绿色家庭版〕","ext":"https://freetvbox.ml/api/qy.txt","date":"2022-09-29 11:52:05" },
         {"key":"外链","name":"外链〔纯绿色家庭版〕","ext":"https://out.zxglife.top/down.php/5da920895444ba485dde96b5425b8a67.txt","date":"2022-09-29 11:52:05" },
         {"key":"云星家庭","name":"云星家庭〔纯绿色家庭版〕","ext":"http://maoyingshi.cc/tvbox/云星日记/1.m3u8","date":"2022-09-06 11:52:05" },
