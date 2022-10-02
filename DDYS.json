@@ -84,7 +84,7 @@
 //===============================================================================================================================================
 {"key":"每天看看","name":"每天看看(优)","type": 1,"api":"http://47.113.126.237:1234/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 {"key":"江湖官采","name":"江湖官采(官)","type": 1,"api":"http://119.29.1.173/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-{"key":"影图影视","name":"影图影视(聚)","type": 1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
+{"key":"影图影视","name":"影图影视(聚)","type": 1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable": 0,"quickSearch": 0,"jar":"https://ddys001.github.io/tvbox2/jar/999.png"},
 {"key":"电视家","name":"电视家(聚)","type":1,"api":"http://mytvhome.xyz/api.php/provide/vod/","searchable":1,"quickSearch":0},
 {"key":"爱兜视频","name":"爱兜视频","type":1,"api":"http://id190.tpddns.cn:81/mogai_api.php/provide/vod/","searchable":1,"quickSearch":0},
 {"key":"千寻时光","name":"千寻时光","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","searchable":1,"quickSearch":0},
