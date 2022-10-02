@@ -1,8 +1,8 @@
 {
    
 "sites": [
-{"key": "77-JS","name": "爬虫┃ 77[JS]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/kunyu77.js"},
-{"key": "77-JS-2","name": "爬虫┃77[JS]2","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/kunyu77_2.js"},
+{"key": "77-JS","name": "爬虫┃ 77[JS]","type": 3,"api": "https://ddys001.github.io/tvbox2/json/kunyu77.js"},
+{"key": "77-JS-2","name": "爬虫┃77[JS]2","type": 3,"api": "https://ddys001.github.io/tvbox2/json/kunyu77_2.js"},
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_小苹果源","name":"爬虫┃小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_利奥影院","name":"爬虫┃利奥影院","type":3,"api":"csp_Lib"           ,"searchable":1,"quickSearch":1,"filterable":0},
@@ -63,7 +63,7 @@
   
 //=====================================================================================================================================================================
    
-   
+{"key": "csp_Alist11","name": " Alist云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#梓澪の妙妙屋$https://xn--i0v44m.xyz#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#七米蓝$https://al.chirmyram.com#DISK$http://124.222.140.243:8080#云播放$https://quanzi.laoxianghuijia.cn#星梦$https://pan.bashroot.top#小江$https://dyj.me","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/XC.jar;md5;CC881AA040595CA8DA012415C085F6B1"},   
 {"key":"T4a","name":"搜索┃T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 {"key":"mtv_pc_阿里盘搜","name":"搜索┃阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
