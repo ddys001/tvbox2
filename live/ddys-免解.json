@@ -76,7 +76,7 @@
 {"key":"mtv_xp_戏曲杂苑","name":"笔力┃戏曲杂苑","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ddys001.github.io/tvbox2/json2/戏曲.json"},
 {"key":"mtv_pc_相声小品","name":"笔力┃相声小品","type":3,"api":"csp_Bili"          ,"searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ddys001.github.io/tvbox2/json2/相声.json"},
 //=====================================================================================================================================================================
-{"key":"mtv_xp_氢视频TV","name":"切片┃氢视频TV","type":3,"api":"csp_XYQHiker"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/氢视频TV.json"},
+{"key":"mtv_xp_氢视频TV","name":"切片┃氢视频TV","type":3,"api":"csp_XYQHiker"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/氢视频TV.json","jar":"https://ddys001.github.io/tvbox2/jar/888.png"},
 {"key":"mtv_xp_酷奇视频","name":"切片┃酷奇视频","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/酷奇视频.json"},
 {"key":"csp_xp_dy888"  ,"name":"切片┃电影888","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/dy888.json"},
 {"key":"mtv_xp_小说听书","name":"切片┃小说听书","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/MiaoTV/box/-/raw/master/Json/小说听书.json"},
