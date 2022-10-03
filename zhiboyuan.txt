@@ -1,5 +1,5 @@
 长期维护,#genre#
-获取VIP接口,https://share.nite07.com/api/v3/file/source/20719/IMG_9495.MOV?sign=HzEaBn_nxoshOavizZ8JDATSFrZEhyVSKOrFky0cEtY%3D%3A0
+获取VIP接口,https://share.nite07.com/api/v3/file/source/23691/IMG_9575.MOV?sign=ROhVfxWvo6pSR0yBbGIgMORwpkPRxDWspUNmB8gekWo%3D%3A0
 每日更新,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
