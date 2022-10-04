@@ -1,0 +1,22 @@
+{
+"站名": "奈飞影视",
+"主页url": "https://yanetflix.com/",
+"播放标题":"span>&&<",
+"导演": "导演：&&</div",
+"主演": "主演：&&</div",
+"简介": "<span>&&</span>",
+"分类": "电影$dianying#电视剧$lianxuju#动漫$dongman#综艺$zongyi",
+ "search_url": "https://yanetflix.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+    "search_mode": "0",
+    "jsonpic": "pic",
+    "jsonname": "name",
+    "jsonid": "id",
+     "search_prefix": "https://yanetflix.com/voddetail/",
+    "search_suffix": ".html",
+    "sea_subtitle": "",
+"副标题":"class=\"module-item-note\">&&</div>",
+"线路数组": "class=\"module-tab-item tab-item&&</div>",
+"线路标题": "<span>&&</span>",
+"播放数组":"class=\"module-play-list&&</div>",
+"分类url":"https://yanetflix.com/vodshow/{cateId}--------{catePg}---.html"
+}
