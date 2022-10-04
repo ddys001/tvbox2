@@ -26,7 +26,7 @@
 {"key":"mtv_pc_小苹果","name":"小小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_利奥影视","name":"利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"mtv_pc_三五电影","name":"三五电影","type":3,"api":"csp_Dy555","filterable":1,"quickSearch":1,"searchable":1},
-{"key":"mtv_pc_酷云七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_酷云七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ddys001.github.io/tvbox2/jar/293-77.jar"},
 {"key":"csp_AppTT","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ddys001.github.io/tvbox2/jar/999.png"},
 {"key":"mtv_pc_焦炭影视","name":"焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_厂长资源","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
@@ -111,7 +111,7 @@
 {"key":"4星资源2","name":"『4星资源2』","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_biubiu_饭团影视","name":"饭团影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://share.nite07.com/api/v3/file/source/23283/%E9%A5%AD%E5%9B%A2%E5%BD%B1%E8%A7%86.json?sign=oa-my8mifMo4NWH1yrQbmcfFAHAU7B5RqULtWeH7nGY%3D%3A0"},
 {"key":"csp_Jianying","name":"简影影视","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"},
-{"key":"csp_293","name":"官方293","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/jason6868/ddys/raw/master/jja/SP293.jar"},
+{"key":"csp_293","name":"官方293","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ddys001.github.io/tvbox2/jar/293-77.jar"},
 {"key":"mtv_pc_爱奇艺","name":"爱奇艺影视〔官源〕","type":3,"api":"csp_IQIYI"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_鑵捐瑙嗛","name":"腾迅影视〔官源〕","type":3,"api":"csp_QQ"            ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ddys001.github.io/tvbox2/jar/爱芒奇.jar"},
 {"key":"mtv_pc_鑺掓灉瑙嗛","name":"芒果影视〔官源〕","type":3,"api":"csp_MGTV"          ,"searchable":1,"quickSearch":1,"filterable":1},
@@ -145,8 +145,8 @@
 {"key":"csp_xpath_clss","name":"磁力搜索","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%A3%81%E5%8A%9B"},
 {"key":"mtv_pc_阿里盘搜","name":"阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"81461f2e9d0b4ffb86612db403824b8a","jar":"https://ddys001.github.io/tvbox2/jar/XC.jar;md5;CC881AA040595CA8DA012415C085F6B1"},
 {"key":"mtv_pc_易搜资源","name":"易搜资源","type":3,"api":"csp_Yiso"          ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"81461f2e9d0b4ffb86612db403824b8a","jar":"https://ddys001.github.io/tvbox2/jar/XC.jar;md5;CC881AA040595CA8DA012415C085F6B1"},
-{"key":"mtv_pc_找资源搜","name":"找资源搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
-{"key":"push_agent"     ,"name":"推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"mtv_pc_找资源搜","name":"找资源搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3","jar":"https://ddys001.github.io/tvbox2/jar/喵影1.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65},
+{"key":"push_agent"     ,"name":"推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3","jar":"https://ddys001.github.io/tvbox2/jar/喵影1.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65},
 {"key":"csp_biubiu_阿里影视", "name":"阿里影视", "type":3, "api":"csp_XBiubiu", "searchable":1,"quickSearch":1, "filterable":0, "ext":"https://share.nite07.com/api/v3/file/source/23266/%E9%98%BF%E9%87%8C%E5%BD%B1%E8%A7%86.json?sign=v-UZqbRVly-F7kPhoXoOBPyrv060tkpnFhZw7OOrMww%3D%3A0" },
 //================================================================================================================================================
 
