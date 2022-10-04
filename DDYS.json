@@ -104,7 +104,8 @@
 {"key":"百度资源","name":"百度资源(聚）","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"jar":"https://gitee.com/jason6868/ddys/raw/master/jja/XBiubiuLA4.jar"},
 {"key":"csp_xpath_ctv","name":"冲TMTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/chongtmtv.json"},
 {"key": "csp_xb_539影视","name": "539影视","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ddys001.github.io/tvbox2/json/539影视.json"}, 
-
+{"key": "csp_xb_子子影视","name": "子子影视","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ddys001.github.io/tvbox2/json/子子影视.json"}, 
+ 
 {"key": "csp_xpath_007","name": "零零七","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/m0_73513607/yshz/-/raw/master/007.json?inline=false"},
 {"key":"4星资源1","name":"『4星资源1』","type":1,"api":"http://119.29.1.173/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"4星资源2","name":"『4星资源2』","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
