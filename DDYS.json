@@ -137,7 +137,7 @@
 {"key":"csp_XYQBiu_310直播","name":"⚽310看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/XYQxb/310直播.json","jar":"https://gitcode.net/m0_73480297/box/-/raw/master/jar/907F.jar?inline=false"},
 
 //======================================================================================================================================
-{"key":"mtv_pc_小纸条源","name":"小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"mtv_pc_小纸条源","name":"小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3","jar":"https://ddys001.github.io/tvbox2/jar/喵影1.jar;md5;B10D1D0527E69BCDC323A4C0BF9E5D65"},
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/jason6868/ddys/raw/master/jja/XC.jar;md5;CC881AA040595CA8DA012415C085F6B1"}, 
 {"key": "csp_Alist11","name": " Alist云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://ddys001.github.io/tvbox2/json/Alist.json","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/XC.jar;md5;CC881AA040595CA8DA012415C085F6B1"},
  
