@@ -16,6 +16,10 @@
 			"filterable": 1,
 			"ext": "7969124e7a4e4ccfb994db1a0e580be4"
 		},
+		{"key":"mtv_pc_易搜资源","name":"易搜资源","type":3,"api":"csp_Yiso"          ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"http://m.miaotvs.cn/资源包.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
+		{"key":"mtv_pc_找资源搜","name":"找资源搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"http://m.miaotvs.cn/资源包.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
+                {"key":"push_agent"     ,"name":"推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"http://m.miaotvs.cn/资源包.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
+
 		{
 			"key": "AliPS",
 			"name": "😻盘搜〔仅搜索〕",
