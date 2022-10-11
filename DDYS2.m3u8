@@ -7,7 +7,7 @@
 "sites": [
 {"key":"mtv_pc_360影视" ,"name":"欢迎收看豆豆影视，祝您国庆节快乐！" ,"type":3,"api":"csp_SP360" ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Alist11","name": " Alist云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://ddys001.github.io/tvbox2/json/Alist.json","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/XC.jar;md5;CC881AA040595CA8DA012415C085F6B1"},
-{"key": "csp_Alist11","name": "2 Alist云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"内豆豆的宝库$http://192.168.1.15:5244#阿里影视收纳屋$http://aruisi.fun:81#神族九帝$https://alist.shenzjd.com#外豆豆的宝库$http://ddys.free.svipss.top#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#星梦$https://pan.bashroot.top#小江$https://dyj.me","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/XC.jar;md5;CC881AA040595CA8DA012415C085F6B1"},
+{"key": "csp_Alist","name": "豆豆云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"内豆豆的宝库$http://192.168.1.15:5244#阿里影视收纳屋$http://aruisi.fun:81#神族九帝$https://alist.shenzjd.com#外豆豆的宝库$http://ddys.free.svipss.top#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#星梦$https://pan.bashroot.top#小江$https://dyj.me","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/XC.jar;md5;CC881AA040595CA8DA012415C085F6B1"},
 //================================================================================================================================================
 		
 {"key": "生活","name": "人间生活","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/人间生活.json"},
