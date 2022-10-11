@@ -7,7 +7,7 @@
 "sites": [
 {"key":"mtv_pc_360影视" ,"name":"欢迎收看豆豆影视，祝您国庆节快乐！" ,"type":3,"api":"csp_SP360" ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Alist11","name": " Alist云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://ddys001.github.io/tvbox2/json/Alist.json","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/XC.jar;md5;CC881AA040595CA8DA012415C085F6B1"},
-
+{"key": "csp_Alist11","name": "2 Alist云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"内豆豆的宝库$http://192.168.1.15:5244#阿里影视收纳屋$http://aruisi.fun:81#神族九帝$https://alist.shenzjd.com#外豆豆的宝库$http://ddys.free.svipss.top#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#星梦$https://pan.bashroot.top#小江$https://dyj.me","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/XC.jar;md5;CC881AA040595CA8DA012415C085F6B1"},
 //================================================================================================================================================
 		
 {"key": "生活","name": "人间生活","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/人间生活.json"},
@@ -146,7 +146,7 @@
 
 //{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/jason6868/ddys/raw/master/jja/XC.jar;md5;CC881AA040595CA8DA012415C085F6B1"}, 
 {"key":"mtv_pc_小纸条源","name":"小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"http://m.miaotvs.cn/资源包.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
-//{"key": "csp_Alist11","name": " Alist云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#梓澪の妙妙屋$https://xn--i0v44m.xyz#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#七米蓝$https://al.chirmyram.com#DISK$http://124.222.140.243:8080#云播放$https://quanzi.laoxianghuijia.cn#🌴非盘$http://www.feifwp.top#星梦$https://pan.bashroot.top#小江$https://dyj.me","jar":"https://gitee.com/jason6868/ddys/raw/master/jja/XC.jar;md5;CC881AA040595CA8DA012415C085F6B1"},
+
 {"key":"csp_xpath_clss","name":"磁力搜索","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%A3%81%E5%8A%9B"},
 {"key":"mtv_pc_阿里盘搜","name":"阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"http://m.miaotvs.cn/资源包.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
 {"key":"mtv_pc_易搜资源","name":"易搜资源","type":3,"api":"csp_Yiso"          ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8","jar":"http://m.miaotvs.cn/资源包.jar;md5;A4D0F912AFAAF7B877125CA73A89F3B9"},
