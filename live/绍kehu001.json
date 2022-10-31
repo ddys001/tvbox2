@@ -5,10 +5,10 @@
    
 "sites": [
 //{"key":"mtv_pc_360影视" ,"name":"欢迎收看豆豆影视，新解析已经帮你加进去了，看吧707帅哥！" ,"type":3,"api":"csp_SP360" ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_乐猪影视","name":"欢迎收看豆豆TV！","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"mtv_pc_乐猪影视","name":"欢迎收看豆豆TV！老版继续使用，新版收费已启动!节目更多，更高清,直播电视台全面打开!","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "动漫","name": "卡通动漫","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/动漫.json","jar":"https://ddys001.github.io/tvbox2/jar/zlm-0828.jar"},
 {"key": "戏曲","name": "戏曲绍兴","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/戏曲.json","jar":"https://ddys001.github.io/tvbox2/jar/zlm-0828.jar"},
-{"key": "csp_Bili","name":"相声小品","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext":"https://ddys001.github.io/tvbox2/json2/相声.json","jar":"https://ddys001.github.io/tvbox2/jar/zlm-0828.jar"},
+//{"key": "csp_Bili","name":"相声小品","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext":"https://ddys001.github.io/tvbox2/json2/相声.json","jar":"https://ddys001.github.io/tvbox2/jar/zlm-0828.jar"},
 //{"key": "学堂","name": "豆豆学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/m0_73480297/box/-/raw/master/json/%E5%AD%A6%E5%A0%82.json?inline=false","jar":"https://gitcode.net/m0_73480297/box/-/raw/master/jar/zlm-0828.jar?inline=false"},
 {"key": "音乐","name": "音乐MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/音乐演唱.json"},
 //{"key": "学习","name": "煊宝课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/m0_73480297/box/-/raw/master/json/%E5%AD%A6%E4%B9%A0%E8%AF%BE%E5%A0%82.json?inline=false"},
