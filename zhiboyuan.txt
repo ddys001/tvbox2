@@ -1,5 +1,5 @@
 长期维护,#genre#
-获取VIP接口,https://ddys.jason8888.repl.co/d/%E8%B1%86%E8%B1%86%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/TVBOX/jason/video/no3.MP4
+获取VIP接口,https://ddyp.ddyp001.repl.co/api/v3/file/get/457/no3.MP4?sign=iM1GpJGEaMG4VeJdf5c5zAWgqN6W224s2y9qiP1Vnuc%3D%3A0
 每日更新,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
