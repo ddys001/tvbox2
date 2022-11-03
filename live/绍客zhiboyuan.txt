@@ -1,5 +1,5 @@
 豆豆TV频道,#genre#
-获取VIP接口,https://share.nite07.com/api/v3/file/source/23699/ae28e03a8d0e655745e8b28663752384.MP4?sign=o7MAy0rnIY1nl-ailOotzvj6buW_D4PogpcgUkavkEs%3D%3A0
+获取VIP接口,https://ddyp.ddyp001.repl.co/api/v3/file/get/457/no3.MP4?sign=iM1GpJGEaMG4VeJdf5c5zAWgqN6W224s2y9qiP1Vnuc%3D%3A0
 每日新片更新,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
