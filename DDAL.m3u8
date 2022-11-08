@@ -183,7 +183,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/1108top98/XBiu/zxzj.json"
+      "ext": "https://ddys001.github.io/tvbox2/json2/zxzj.json"
     },
     {
       "key": "csp_xb_auete",
@@ -193,7 +193,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://tvboxhh/1108top98/XBiu/auete.json"
+      "ext": "https://ddys001.github.io/tvbox2/json2/auete.json"
     },
     {
       "key": "csp_xb_lib",
