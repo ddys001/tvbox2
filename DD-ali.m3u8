@@ -158,8 +158,13 @@
       }
     },
     {"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-    {"key": "桉t4","name": "豆瓣榜单（桉T4）","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=26496fd573ac45d5b3b3f77799fc126f&timeout=6", "searchable": 1,"quickSearch": 1,"filterable": 1 },
- 
+     {
+            "key" : "drpy_js_豆瓣",
+            "name" : "$豆瓣$[DRPY]",
+            "type" : 3,
+            "api" : "https://ddys001.github.io/tvbox2/js/drpy.min.js",
+            "ext" : "https://ddys001.github.io/tvbox2/js/豆瓣修复.js"
+        },
     {
       "key": "csp_xb_lez",
       "name": "乐猪(XBiu)",
