@@ -5,7 +5,7 @@
    
 "sites": [
 //{"key":"csp_293","name":"293影视","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"mtv_pc_乐猪影视","name":"欢迎收看豆豆TV   祝您：阖家幸福！","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"mtv_pc_乐猪影视","name":"欢迎收看豆豆TV！V:dd2020xyc,功能更强大的版本已上线，欢迎咨询！","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "动漫","name": "卡通动漫","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/动漫.json","jar":"https://ddys001.github.io/tvbox2/jar/zlm-0828.jar"},
 {"key": "戏曲","name": "戏曲民间","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/戏曲.json","jar":"https://ddys001.github.io/tvbox2/jar/zlm-0828.jar"},
 {"key": "csp_Bili","name":"相声小品","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext":"https://ddys001.github.io/tvbox2/json2/相声.json","jar":"https://ddys001.github.io/tvbox2/jar/zlm-0828.jar"},
