@@ -6,6 +6,7 @@
 李子柒,http://zzy789.xyz/douyu1.php?id=2901080
 
 央视超清,#genre#
+豆豆频道,https://ddyp.ddyp001.repl.co/api/v3/file/get/457/no3.MP4?sign=iM1GpJGEaMG4VeJdf5c5zAWgqN6W224s2y9qiP1Vnuc%3D%3A0
 CCTV1超高清FHD,http://117.169.120.142:8080/live/cctv-1/1.m3u8
 CCTV2超高清FHD,http://117.169.120.142:8080/live/cctv-2/1.m3u8
 CCTV3超高清FHD,http://117.169.120.142:8080/live/cctv-3/1.m3u8
@@ -16,6 +17,7 @@ CCTV7超高清FHD,http://117.169.120.142:8080/live/cctv-7/1.m3u8
 CCTV8超高清FHD,http://117.169.120.142:8080/live/cctv-8/1.m3u8
 
 央视频道,#genre#
+豆豆频道,https://ddyp.ddyp001.repl.co/api/v3/file/get/457/no3.MP4?sign=iM1GpJGEaMG4VeJdf5c5zAWgqN6W224s2y9qiP1Vnuc%3D%3A0
 CCTV-1综合,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV-1综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
 CCTV-1综合,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
@@ -190,6 +192,7 @@ CETV-2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 
 高清卫视,#genre#
+豆豆频道,https://ddyp.ddyp001.repl.co/api/v3/file/get/457/no3.MP4?sign=iM1GpJGEaMG4VeJdf5c5zAWgqN6W224s2y9qiP1Vnuc%3D%3A0
 浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
 浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
