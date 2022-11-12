@@ -1,4 +1,5 @@
 少儿-传统-记忆,#genre#
+豆豆频道,https://ddyp.ddyp001.repl.co/api/v3/file/get/457/no3.MP4?sign=iM1GpJGEaMG4VeJdf5c5zAWgqN6W224s2y9qiP1Vnuc%3D%3A0
 李子柒,http://zzy789.xyz/douyu1.php?id=2901080
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
@@ -346,7 +347,7 @@ CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 北碚综合,http://222.178.181.121:12034/beibei01.m3u8?zzhongqd
 涪陵电视台,http://livefuling.chinamcache.com/liveful/fldszb001.m3u8?zzhongqd
 涪陵电视台,http://livefuling.chinamcache.com/liveful/fldszb001.flv?zzhongqd
-👍
+
 四川省地方台,#genre#
 四川卫视,http://39.135.32.10:6610/000000001000/SD-4000k-576P-sichuanstv/1.m3u8?IASHttpSessionId=OTT?zsicd
 四川科教,http://3017ugjo.live2.danghongyun.com:80/live/hls/4dc0e927160647a2bd585cb5495810be/3c2126c925204cddb74a3534b97e2765-1.m3u8?zsicd
