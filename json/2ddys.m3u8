@@ -884,7 +884,7 @@
 {"name": "parwix稳定","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="}, 
 {"name": "OKjx综合","type": 0,"url": "https://okjx.cc/?url="},
 {"name":"云you秒解①","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
-{"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["rx"]}},
+//{"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["rx"]}},
 {"name":"云you秒播①","type":1,"url":"https://jx.hfyrw.com/mao.go?url="},
 {"name":"leduo","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
 //{"name":"云you解析①","type":1,"url":"https://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="},
