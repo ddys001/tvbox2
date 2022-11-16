@@ -872,6 +872,13 @@
 {"name": "大猫解析1","type": 1,"url": "http://api.ckflv.cn/?url="},
 {"name": "大猫解析2","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url="},
 
+{"name":"王坛一号","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"王坛二号","type":1,"url":"http://3.37.195.161:54371/parse/api/dyg.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"王坛三号","type":1,"url":"https://json.freejson.xyz/hongtu.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"王坛四号","type":1,"url":"https://json.freejx.in/?url="},
+{"name":"王坛五号","type":1,"url":"https://json.freejx.in/?url="},
+{"name":"王坛六号","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+
 {"name":"QIM解2","type":0,"url":"https://jx.parwix.com:4433/player/analysis.php?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"线路1","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"线路2","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"header":{"User-Agent":""}}},
