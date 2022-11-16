@@ -17,6 +17,10 @@
       "type_id": "食谱超清"
     },
     {
+      "type_name": "绍兴王坛",
+      "type_id": "绍兴王坛人文美景"
+    },
+    {
       "type_name": "纪录片",
       "type_id": "纪录片超清"
     },
@@ -27,10 +31,6 @@
     {
       "type_name": "说案",
       "type_id": "说案"
-    },
-    {
-      "type_name": "绍兴王坛",
-      "type_id": "绍兴王坛人文美景"
     },
     {
       "type_name": "白噪音",
