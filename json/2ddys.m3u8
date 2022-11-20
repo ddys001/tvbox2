@@ -44,7 +44,7 @@
 {"key":"mtv_pc_利奥影视","name":"利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"mtv_pc_三五电影","name":"三五电影","type":3,"api":"csp_Dy555","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"mtv_pc_酷云七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ddys001.github.io/tvbox2/jar/293-77.jar"},
-{"key":"csp_AppTT","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ddys001.github.io/tvbox2/jar/999.png"},
+{"key":"csp_AppTT","name":"图图影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/图图.jar"},
 {"key":"mtv_pc_焦炭影视","name":"焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_厂长资源","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"mtv_pc_快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -60,6 +60,7 @@
 {"key":"mtv_pc_剧荒影院","name":"剧荒影院","type":3,"api":"csp_Juhuang"       ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_樱花动漫","name":"樱花动漫","type":3,"api":"csp_Anime1"        ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_美剧星球","name":"美剧星球","type":3,"api":"csp_Mjxq"          ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_fant","name":"饭团影视","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1116.jpg;md5;ab44104cfabc8c6da7b54124a0c36a5a"},
 //===============================================================================================================================================
 
 {"key":"csp_xBPQ_555dy","name":"555电影 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",
