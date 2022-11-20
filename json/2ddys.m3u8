@@ -769,7 +769,7 @@
 {"key": "csp_xpath_yinfans","name": "音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json/音范丝.json","jar":"https://ddys001.github.io/tvbox2/jar/20221119.jar"},
 {"key": "csp_biubiu_yekong", "name": "夜空高清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ddys001.github.io/tvbox2/json/yekong.json"},
 {"key":"csp_biubiu_花猫TV","name":"花猫TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ddys001.github.io/tvbox2/json/花猫TV.json"},
-{"key":"csp_xp_mozhatu","name":"莫扎兔","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ddys001.github.io/tvbox2/json/莫扎兔。json"},
+{"key":"csp_xp_mozhatu","name":"莫扎兔","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ddys001.github.io/tvbox2/json/莫扎兔.json"},
 {"key":"csp_biubiu_黑狐影院","name":"黑狐影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ddys001.github.io/tvbox2/json/黑狐影院.json"},
 {"key":"csp_xpath_vip1280","name":"VIP电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ddys001.github.io/tvbox2/json/VIP电影.json"},
 {"key":"csp_xpath_ttsp","name":"天天视频","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ddys001.github.io/tvbox2/json/天天视频.json"},
