@@ -263,7 +263,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/huamao.json",
-			"jar": "https://www.notabug.org/xiaohewanwan/jar/raw/main/XYQPlugin_0925.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0925.jar"
 		},
 		{
 			"key": "csp_XYQBiu_剧荒",
@@ -274,7 +274,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H-1/juhuang.json",
-			"jar": "https://www.notabug.org/xiaohewanwan/jar/raw/main/XYQPlugin_0925.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0925.jar"
 		},
 		{
 			"key": "csp_XYQBiu_影视工厂",
@@ -285,7 +285,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/xyq/%e5%bd%b1%e8%a7%86%e5%b7%a5%e5%8e%82.json",
-			"jar": "https://www.notabug.org/xiaohewanwan/jar/raw/main/XYQPlugin_0925.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0925.jar"
 		},
 		{
 			"key": "csp_imax",
@@ -450,7 +450,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/naikan.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_ksj",
