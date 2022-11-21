@@ -120,7 +120,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/007ys.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "au",
@@ -131,7 +131,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/au.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_heihei",
@@ -142,7 +142,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H-1/heihei.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		
 		{
@@ -154,7 +154,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/cehsi.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "pianku",
@@ -165,7 +165,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/pianku.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "40",
@@ -176,7 +176,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/40ys.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_XYQBiu_vofix",
@@ -187,7 +187,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H-1/voflix.json",
-			"jar": "https://www.notabug.org/xiaohewanwan/jar/raw/main/XYQPlugin_0925.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0925.jar"
 		},
 		{
 			"key": "csp_XYQHiker_快播",
@@ -210,7 +210,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/changzhang.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "dr_素白白",
@@ -241,7 +241,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/zhenbuka.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_HDmoli",
@@ -252,7 +252,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/moli.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_XYQBiu_花猫",
@@ -296,7 +296,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/imaxw.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_320",
@@ -307,7 +307,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xyqh_320%e7%94%b5%e5%bd%b1.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xbot",
@@ -318,7 +318,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/xyqh_Xbot%e5%bd%b1%e8%a7%86.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_XYQHiker_新视觉",
@@ -329,7 +329,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/newshijue.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_XYQHiker_188kan",
@@ -340,7 +340,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/188kan.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_cookmv",
@@ -352,7 +352,7 @@
 			"playerType": "2",
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/cokemv.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_101视频",
@@ -363,7 +363,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/101.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_UM影院",
@@ -374,7 +374,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H-1/um.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "aifei",
@@ -385,7 +385,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/aifei.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_XYQBiu_555",
@@ -406,7 +406,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/rp123.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_naifeiya",
@@ -417,7 +417,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/yanaifei.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_qicui",
@@ -428,7 +428,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/qicui.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_kanpain",
@@ -439,7 +439,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/kanpin.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_naikan",
@@ -461,7 +461,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/kanshijie.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_ksj2",
@@ -472,7 +472,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/300kanshijie.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_bx1",
@@ -483,7 +483,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/23.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_klm11",
@@ -494,7 +494,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/xinxiao.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_klm12",
@@ -505,7 +505,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/dyxs.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_xiangjiao3",
@@ -516,7 +516,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/lovekan.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_xiangjiao4",
@@ -527,7 +527,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/yszj.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_xiangjiao5",
@@ -538,7 +538,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/freeok.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_xiangjiao6",
@@ -549,7 +549,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/mojie.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_xiangjiao7",
@@ -560,7 +560,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/skymovie.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_xiangjiao8",
@@ -571,7 +571,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/xmmi.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_xiangjiao9",
@@ -582,7 +582,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/7ye.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_xiangjiao10",
@@ -593,7 +593,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/xifan.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_xiangjiao11",
@@ -604,7 +604,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/xiaoqiangmi.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_xiangjiao12",
@@ -615,7 +615,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/dianyingniu.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_91pian",
@@ -626,7 +626,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/91pian.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_91pian1",
@@ -637,7 +637,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/789.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "白嫖者联盟",
@@ -648,7 +648,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/bpzlm.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "酷客",
@@ -659,7 +659,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/kuke.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "buxiutv",
@@ -670,7 +670,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/buxiutv.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "Z动漫",
@@ -681,7 +681,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/XYQH/Z%E5%8A%A8%E6%BC%AB.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_90rc",
@@ -693,7 +693,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/90rc.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 		{
 			"key": "csp_xf_ng",
@@ -705,7 +705,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/smallmi18/TVB/main/H/ngys.json",
-			"jar": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/XYQPlugin_0926.jar"
+			"jar": "https://ddys001.github.io/tvbox2/jar/XYQPlugin_0926.jar"
 		},
 //=====================================================================================================================================================
 //===============================================================================================================================================
