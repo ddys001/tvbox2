@@ -280,7 +280,7 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "7bb5b24ca3274ad781a6071082e9eebd;desc"
+      "ext": "02aed4fe8613411eb6d0c566acccde50;desc"
     },
     {
       "key": "找资源",
@@ -301,7 +301,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext": "7bb5b24ca3274ad781a6071082e9eebd;asc"
+      "ext": "02aed4fe8613411eb6d0c566acccde50;asc"
     },
     {
       "key": "yisou",
@@ -332,7 +332,7 @@
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext": "a52cc59d21374117858c0dccb4b3c117;desc"
+      "ext": "02aed4fe8613411eb6d0c566acccde50;desc"
     }
   ],
   "parses": [
