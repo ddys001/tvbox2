@@ -28,13 +28,13 @@
 //{"key":"mtv_pc_小纸条源","name":"小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json","jar":"https://ddys001.github.io/tvbox2/jar/spider.jar"},
 
 //{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ddys001.github.io/tvbox2/jar/spider.jar"}, 
-{"key":"mtv_xp_小纸条源","name":"小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ddys001.github.io/tvbox2/json/alitoken.json"},
+{"key":"mtv_xp_小纸条源","name":"小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ddys001.github.io/tvbox2/json/alitoken.json","jar":"https://ddys001.github.io/tvbox2/json/1.jar"},
 
 {"key":"csp_xpath_clss","name":"磁力搜索","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%A3%81%E5%8A%9B"},
-{"key":"mtv_xp_阿里盘搜","name":"阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ddys001.github.io/tvbox2/json/alitoken.json"},
-{"key":"mtv_xp_易搜资源","name":"易搜资源","type":3,"api":"csp_Yiso"          ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ddys001.github.io/tvbox2/json/alitoken.json"},
-{"key":"mtv_xp_找资源搜","name":"找资源搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ddys001.github.io/tvbox2/json/alitoken.json"},
-{"key":"push_agent"     ,"name":"推送资源","type":3,"api":"csp_PushAgent"    ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ddys001.github.io/tvbox2/json/alitoken.json"},
+{"key":"mtv_xp_阿里盘搜","name":"阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ddys001.github.io/tvbox2/json/alitoken.json","jar":"https://ddys001.github.io/tvbox2/json/1.jar"},
+{"key":"mtv_xp_易搜资源","name":"易搜资源","type":3,"api":"csp_Yiso"          ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ddys001.github.io/tvbox2/json/alitoken.json","jar":"https://ddys001.github.io/tvbox2/json/1.jar"},
+{"key":"mtv_xp_找资源搜","name":"找资源搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ddys001.github.io/tvbox2/json/alitoken.json","jar":"https://ddys001.github.io/tvbox2/json/1.jar"},
+{"key":"push_agent"     ,"name":"推送资源","type":3,"api":"csp_PushAgent"    ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ddys001.github.io/tvbox2/json/alitoken.json","jar":"https://ddys001.github.io/tvbox2/json/1.jar"},
 {"key":"csp_biubiu_阿里影视", "name":"阿里影视", "type":3, "api":"csp_XBiubiu", "searchable":1,"quickSearch":1, "filterable":0, "ext":"https://share.nite07.com/api/v3/file/source/23266/%E9%98%BF%E9%87%8C%E5%BD%B1%E8%A7%86.json?sign=v-UZqbRVly-F7kPhoXoOBPyrv060tkpnFhZw7OOrMww%3D%3A0" },
 
 //================================================================================================================================================
