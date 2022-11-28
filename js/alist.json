@@ -7,6 +7,13 @@
         "search" : true
     },
          {
+        "name" : "🌤豆豆手机资源库",
+        "server" : "http://192.168.1.99:5244",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+         {
         "name" : "🌤豆豆网络资源库",
         "server" : "https://ddys.jason8888.repl.co",
         "startPage" : "/",
