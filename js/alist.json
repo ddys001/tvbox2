@@ -6,6 +6,13 @@
         "showAll" : false,
         "search" : true
     },
+         {
+        "name" : "🌤豆豆网络资源库",
+        "server" : "https://ddys.jason8888.repl.co",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
         {
         "name" : "🌤晴园的宝藏库",
         "server" : "https://alist.52qy.repl.co",
