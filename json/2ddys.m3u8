@@ -8,8 +8,7 @@
 {"key":"mtv_pc_360影视" ,"name":"欢迎收看豆豆影视，祝您:阖家幸福、安康！" ,"type":3,"api":"csp_SP360" ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Alist11","name": " Alist云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://ddys001.github.io/tvbox2/json/Alist.json","jar":"https://ddys001.github.io/tvbox2/jar/Yoursmile.jar;md5;34D8FC113483ADDD0C91DEB288B25E32"},
 {"key": "csp_Alist","name": "豆豆云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"手机宝库$http://192.168.1.99:5244#内豆豆的宝库$http://192.168.1.88:5244#豆豆网络版$https://ddys.jason8888.repl.co#阿里影视收纳屋$http://aruisi.fun:81#神族九帝$https://alist.shenzjd.com#外豆豆的宝库$https://dd001.ddys.repl.co/#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#星梦$https://pan.bashroot.top#小江$https://dyj.me","jar":"https://ddys001.github.io/tvbox2/jar/Yoursmile.jar;md5;34D8FC113483ADDD0C91DEB288B25E32"},
-{"key": "csp_XYQ_lu1","name": "️📺电视直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ddys001.github.io/tvbox2/json/直播.json","jar":"https://ddys001.github.io/tvbox2/jar/最高1080哔哩念影神马zb.zip"
-    },
+
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣","type":3,"api":"https://ddys001.github.io/tvbox2/lib/drpy.min.js","ext":"https://ddys001.github.io/tvbox2/js/drpy.js"},
 //{"key": "桉t4","name": "豆瓣榜单","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=26496fd573ac45d5b3b3f77799fc126f&timeout=6", "searchable": 1,"quickSearch": 1,"filterable": 1 ,"ext":"https://ddys001.github.io/tvbox2/js/豆瓣修复.js"},
 //================================================================================================================================================
