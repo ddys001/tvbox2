@@ -4,11 +4,9 @@
 
    
 "sites": [
-//{"key":"mtv_pc_360影视" ,"name":"欢迎收看豆豆影视，新解析已经帮你加进去了，看吧707帅哥！" ,"type":3,"api":"csp_SP360" ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_360影视" ,"name":"欢迎收看豆豆TV！因新版本通道需要拓宽，老版本可以看，但是速度会变慢，欢迎升级！" ,"type":3,"api":"csp_SP360" ,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"mtv_pc_乐猪影视","name":"欢迎收看豆豆TV！新版本已升级，直播，点播都可以定制，50元/年 两台以上更有优惠!","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"mtv_pc_利奥影视","name":"欢迎收看豆豆TV！因新版本通道需要拓宽，老版本可以看，但是速度会变慢，欢迎升级！","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ddys001.github.io/tvbox2/jar/20221119.jar"},
-
-{"key":"YQK_spider","name":"⚽一起看世界杯","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://52bsj.vip:81/api/v3/file/get/64524/qj1122.jar?sign=hapAQ7YXfCdIIpK5-rhp7miTPrPV64ZDRV4rojXSNJU%3D%3A0"},   
+//{"key":"mtv_pc_利奥影视","name":"欢迎收看豆豆TV！因新版本通道需要拓宽，老版本可以看，但是速度会变慢，欢迎升级！","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ddys001.github.io/tvbox2/jar/20221119.jar"},
 
 {"key": "动漫","name": "卡通动漫","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/动漫.json","jar":"https://ddys001.github.io/tvbox2/jar/zlm-0828.jar"},
 {"key": "戏曲","name": "戏曲绍兴","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ddys001.github.io/tvbox2/json2/戏曲.json","jar":"https://ddys001.github.io/tvbox2/jar/zlm-0828.jar"},
