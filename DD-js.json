@@ -1,4 +1,7 @@
-{"spider":"./jar/w.jar",
+{
+ //"spider":"./jar/w.jar",
+ "spider":"https://ddyp.ddyp001.repl.co/api/v3/file/get/915/w.jar?sign=5IrQ1kXtsAaqmf74w_qpCFNCjYrBxb9b9E17SYRO1qw%3D%3A0",
+ 
  "sites":[
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
