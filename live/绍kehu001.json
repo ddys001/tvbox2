@@ -4,7 +4,7 @@
 
    
 "sites": [
-{"key":"mtv_pc_360影视" ,"name":"欢迎收看豆豆TV！因新版本通道需要拓宽，老版本可以看，但是速度会变慢，欢迎升级！" ,"type":3,"api":"csp_SP360" ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_360影视" ,"name":"欢迎收看豆豆TV！如果打开jar加载失败，那要等等，因为你懂得！" ,"type":3,"api":"csp_SP360" ,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"mtv_pc_乐猪影视","name":"欢迎收看豆豆TV！新版本已升级，直播，点播都可以定制","type":3,"api":"csp_Lezhu"         ,"filterable":1,"quickSearch":1,"searchable":1},
 //{"key":"mtv_pc_利奥影视","name":"欢迎收看豆豆TV！因新版本通道需要拓宽，老版本可以看，但是速度会变慢，欢迎升级！","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ddys001.github.io/tvbox2/jar/20221119.jar"},
 
