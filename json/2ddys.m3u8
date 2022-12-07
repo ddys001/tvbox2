@@ -39,10 +39,10 @@
 
 //================================================================================================================================================
 
-{"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ddys001.github.io/tvbox2/jar/spider.jar"},
-{"key":"t4_搜片","name":"📡搜片(T4)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ddys001.github.io/tvbox2/jar/spider.jar"},
-{"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0,"jar":"https://ddys001.github.io/tvbox2/jar/spider.jar"},
-{"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ddys001.github.io/tvbox2/jar/spider.jar"},
+{"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/spider.jar"},
+{"key":"t4_搜片","name":"📡搜片(T4)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/spider.jar"},
+{"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10",  "searchable": 1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/spider.jar"},
+{"key":"t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/spider.jar"},
 //{"key":"mtv_pc_小纸条源","name":"小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json","jar":"https://ddys001.github.io/tvbox2/jar/spider.jar"},
 //{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ddys001.github.io/tvbox2/jar/spider.jar"}, 
 
@@ -62,9 +62,9 @@
 {"key": "9E03","name":"9E03","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"mtv_pc乐猪影视","name":"乐猪影视","type":3,"api":"csp_Lezhu" ,"filterable":1,"quickSearch":1,"searchable":1}, 
 {"key":"mtv_pc_小苹果","name":"小小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/20221124.jar"},
-{"key":"mtv_pc_利奥影视","name":"利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ddys001.github.io/tvbox2/jar/20221119.jar"},
-{"key":"mtv_pc_三五电影","name":"三五电影","type":3,"api":"csp_Dy555","filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ddys001.github.io/tvbox2/jar/Y+555+小纸条(阿里云CDN)+Auete修复.jar"},
-{"key":"mtv_pc_酷云七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ddys001.github.io/tvbox2/jar/293-77.jar"},
+{"key":"mtv_pc_利奥影视","name":"利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/20221119.jar"},
+{"key":"mtv_pc_三五电影","name":"三五电影","type":3,"api":"csp_Dy555","filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/Y+555+小纸条(阿里云CDN)+Auete修复.jar"},
+{"key":"mtv_pc_酷云七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/293-77.jar"},
 {"key":"AppTT","name":"图图影视","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ddys001.github.io/tvbox2/jar/qj1119.jar"}, 
 {"key":"mtv_pc_焦炭影视","name":"焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/20221124.jar"},
 {"key":"mtv_pc_厂长资源","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
