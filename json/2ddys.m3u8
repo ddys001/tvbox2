@@ -1,14 +1,15 @@
 {
 //   此线路为我自己亲戚朋友所建，完全按照个人爱好设置，偏向老年人和孩子的风格，不适合外人使用！！！
 //   集合最美好的资源  看最清晰的影视  在线维护 ！  此线路只为豆豆  煊宝  以及王坛的亲人们！！！!
-   
+// https://ghproxy.com/https://raw.githubusercontent.com/用户名/项目名/main(分支名）/json（分组名）/文件名.json
+
 //"searchable":1    0：不搜索   1：可搜索
 
 //jar
 
 //"spider":"https://ddys001.github.io/tvbox2/jar/资源包1.jar",
 //"spider":"https://ddyp.ddyp001.repl.co/api/v3/file/get/99/%E8%B5%84%E6%BA%90%E5%8C%85.jar?sign=D9cwIa4W6nG1_N2AJEa9qBiR6Z3FlsFe1NdbTym7p04%3D%3A0;md5;A4D0F912AFAAF7B877125CA73A89F3B9",
-"spider":"https://ddys001.github.io/tvbox2/jar/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC",
 
 
 //"wallpaper":"https://tool.weetai.cn/api",
