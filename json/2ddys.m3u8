@@ -4,6 +4,21 @@
    
 //"searchable":1    0：不搜索   1：可搜索
 
+//jar
+
+//"spider":"https://ddys001.github.io/tvbox2/jar/资源包1.jar",
+//"spider":"https://ddyp.ddyp001.repl.co/api/v3/file/get/99/%E8%B5%84%E6%BA%90%E5%8C%85.jar?sign=D9cwIa4W6nG1_N2AJEa9qBiR6Z3FlsFe1NdbTym7p04%3D%3A0;md5;A4D0F912AFAAF7B877125CA73A89F3B9",
+"spider":"http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC",
+
+
+//"wallpaper":"https://tool.weetai.cn/api",
+"wallpaper":"https://api.vvhan.com/api/acgimg",
+
+//直播
+
+//"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kZHlzMDAxLmdpdGh1Yi5pby90dmJveDIvemhpYm95dWFuLnR4dA=="]}]}],
+
+
 "sites": [
 {"key":"mtv_pc_360影视" ,"name":"欢迎收看豆豆影视，祝您:阖家幸福、安康！" ,"type":3,"api":"csp_SP360" ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Alist11","name": " Alist云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://ddys001.github.io/tvbox2/json/Alist.json","jar":"https://ddys001.github.io/tvbox2/jar/Yoursmile.jar;md5;34D8FC113483ADDD0C91DEB288B25E32"},
@@ -922,19 +937,6 @@
 {"name":"云you解析③","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="}],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi"],
 
-//jar
-
-//"spider":"https://ddys001.github.io/tvbox2/jar/资源包1.jar",
-//"spider":"https://ddyp.ddyp001.repl.co/api/v3/file/get/99/%E8%B5%84%E6%BA%90%E5%8C%85.jar?sign=D9cwIa4W6nG1_N2AJEa9qBiR6Z3FlsFe1NdbTym7p04%3D%3A0;md5;A4D0F912AFAAF7B877125CA73A89F3B9",
-"spider":"http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC",
-
-
-//"wallpaper":"https://tool.weetai.cn/api",
-"wallpaper":"https://api.vvhan.com/api/acgimg",
-
-//直播
-
-//"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kZHlzMDAxLmdpdGh1Yi5pby90dmJveDIvemhpYm95dWFuLnR4dA=="]}]}],
 
 //解码
 
