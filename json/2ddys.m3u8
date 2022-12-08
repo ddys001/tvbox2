@@ -22,8 +22,20 @@
 
 "sites": [
 {"key":"mtv_pc_360影视" ,"name":"欢迎收看豆豆影视！" ,"type":3,"api":"csp_SP360" ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key": "Alist","name": " Alist云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/json2/alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/alist_spider.jar"},
-
+  {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/json2/alist.json",
+      "jumpDetail": 0,
+      "reversePlay": 0,
+      "enable": 1,
+      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/alist_spider.jar"
+ },
 {"key": "csp_Alist","name": "豆豆云盘","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"手机宝库$http://192.168.1.99:5244#内豆豆的宝库$http://192.168.1.88:5244#豆豆网络版$https://ddys.jason8888.repl.co#阿里影视收纳屋$http://aruisi.fun:81#神族九帝$https://alist.shenzjd.com#外豆豆的宝库$https://dd001.ddys.repl.co/#9T$https://drive.9t.ee#Eren's$https://alist.sharefiles.repl.co#星梦$https://pan.bashroot.top#小江$https://dyj.me","jar":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/zy.jar"},
 
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣","type":3,"api":"https://ddys001.github.io/tvbox2/lib/drpy.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/js/drpy.js"},
