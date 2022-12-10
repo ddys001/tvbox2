@@ -162,7 +162,7 @@
 {"key": "push_agent","name": "阿里 |推送","type": 3,"api": "csp_Push","ext": "./lib/token.txt"}],
 //============================================================================================================================================================  
  
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kZHlzMDAxLmdpdGh1Yi5pby90dmJveDIvemhpYm95dWFuLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZGR5czAwMS90dmJveDIvbWFzdGVyL3poaWJveXVhbi50eHQ="]}]}],
  
 //============================================================================================================================================================  
 "rules":[
