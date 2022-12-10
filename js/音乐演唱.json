@@ -2,11 +2,11 @@
     "classes":[
     {"type_name":"我的","type_id":"经典无损音乐合集"},    
     {"type_name":"绍兴莲花落","type_id":"绍兴莲花落超清"},
-    {"type_name":"越剧","type_id":"越剧超清"},
-    {"type_name":"绍剧","type_id":"绍剧超清"},
-    {"type_name":"滑稽越剧","type_id":"滑稽越剧黄宪高"},
-    {"type_name":"相声","type_id":"相声超清"},
-    {"type_name":"小品","type_id":"小品超清"},
+    {"type_name":"越剧","type_id":"越剧超清合集"},
+    {"type_name":"绍剧","type_id":"绍剧超清合集"},
+    {"type_name":"滑稽越剧","type_id":"滑稽越剧黄宪高合集"},
+    {"type_name":"相声","type_id":"相声超清合集"},
+    {"type_name":"小品","type_id":"小品超清合集"},
     {"type_name":"翻唱","type_id":"网红翻唱歌曲"},
     {"type_name":"音乐","type_id":"音乐 4k"},
 
