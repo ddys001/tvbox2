@@ -24,7 +24,7 @@
 {"key": "AList","name": "AList┃云盘","type": 3,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/json2/alist.json","jumpDetail": 0,"reversePlay": 0,"enable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/alist_spider.jar"},
 //=================================================================================================================================================================
 { "key": "csp_77", "name": "七七┃影视", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1},
-{ "key": "Bili", "name": "Bili┃影视", "type": 3, "api": "csp_Bili", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "./json/bilibili.json"},     
+{ "key": "Bili", "name": "绍兴┃特色", "type": 3, "api": "csp_Bili", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "./json/bilibili.json"},     
 { "key": "剧荒TV（SP）", "name": "剧荒┃影视", "type": 3, "api": "csp_Juhuang", "searchable": 1, "quickSearch": 1, "filterable": 1},
 { "key": "Lezhu_spider", "name": "乐猪┃影视", "api": "csp_Lezhu", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1},
 { "key": "csp_Nmys", "name": "农民┃影视", "type": 3, "api": "csp_Nmys", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./json/nmys.json"},
