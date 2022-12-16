@@ -1,8 +1,11 @@
 {
  "spider":"./jar/duov.jar",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvUWlhb0ppNi9GcmVlRC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
-"sites":
+ 
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvUWlhb0ppNi9GcmVlRC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
+  "lives":[{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kZHlzMDAxLmdpdGh1Yi5pby90dmJveDIvemhpYm95dWFuLnR4dA=="]}]}],
+ 
+ "sites":
 [
 {"key": "360","name": "360┃官源", "type": 3, "api": "csp_SP360", "searchable": 1, "quickSearch": 1, "filterable": 1},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
