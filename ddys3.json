@@ -9,6 +9,11 @@
 { "key": "csp_QQ", "name": "企鹅（SP）", "type": 3, "api": "csp_QQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/甜蜜1019.jar"},
 { "key": "csp_MGTV", "name": "芒果（SP）", "type": 3, "api": "csp_MGTV", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/甜蜜1019.jar"},
 { "key": "csp_IQIYI", "name": "奇艺（SP）", "type": 3, "api": "csp_IQIYI", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/甜蜜1019.jar"},
+{ "key": "Gitcafe", "name": "小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/阿里系列1125.jar", "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"},
+{ "key": "upyunsou", "name": "Up云搜", "type": 3, "api": "csp_Upyunso", "searchable": 1, "quickSearch": 1, "playerType": 1, "filterable": 0, "jar": "./jar/阿里系列1125.jar", "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"},
+{ "key": "yisou", "name": "易搜", "type": 3, "api": "csp_Yisou", "searchable": 1, "quickSearch": 1, "filterable": 0, "jar": "./jar/阿里系列1125.jar", "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"},
+{ "key": "AliPS", "name": "Ali盘搜", "type": 3, "api": "csp_AliPS", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/阿里系列1125.jar;", "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"}
+{"key":"mtv_xp_找资源搜","name":"找资源搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"playerType": 1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/json2/token.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/custom_spider（修找资源）.jar"},
 
 { "key": "剧荒TV（SP）", "name": "剧荒（SP）", "type": 3, "api": "csp_Juhuang", "searchable": 1, "quickSearch": 1, "filterable": 1},
 { "key": "Lezhu_spider", "name": "乐猪(SP)", "api": "csp_Lezhu", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1},
@@ -27,21 +32,11 @@
 { "key": "csp_Vofl", "name": "Voflix(SP)", "type": 3, "api": "csp_Voflix", "searchable": 1, "quickSearch": 1, "filterable": 1},
 { "key": "csp_Zjdr", "name": "追剧达人(SP)", "type": 3, "api": "csp_Zjdr", "searchable": 1, "quickSearch": 1, "filterable": 1},
 { "key": "MV大全","name": "MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar": "https://xn--m7r412advb92j21st65a.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc"},
-{ "key": "2022世界杯","name": "2022世界杯","type": 4, "api": "http://120.53.102.254/t4/sjb","searchable": 1,"quickSearch": 0, "filterable": 1,"jar": "https://xn--m7r412advb92j21st65a.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc"},
-{ "key": "抖音小姐姐","name": "抖音小姐姐", "type": 4,"api": "http://120.53.102.254/xjj","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "https://xn--m7r412advb92j21st65a.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc" },
 { "key": "csp_XBiu_1080ys", "name": "1080影视(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://1080p.tv/vodtype/2/id/{cateId}.html", "jar": "./tvbox/XBiu.jar;"},
 { "key": "csp_XBiu_cokemv", "name": "cokemv(XBiu)", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html", "jar": "./tvbox/XBiu.jar"},
 { "key": "csp_xbpq_子子影视", "name": "子子影视(XBPQ)", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./json/子子影视.json"},
 { "key": "csp_xbpq_胖虎影视", "name": "胖虎影视(XBPQ)", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./json/胖虎影视.json"},
 { "key": "csp_XYQBiu_神马影视", "name": "神马影视(XYQ)", "type": 3, "api": "csp_XYQBiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./json/神马XYQ.json", "jar": "./tvbox/XYQPlugin_1010.jar"},
-{ "key": "csp_XYQBiu_虎牙直播", "name": "虎牙直播(XYQ)", "type": 3, "api": "csp_XYQBiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./json2/虎牙XYQ.json", "jar": "./tvbox/XYQPlugin_0926.jar"},
-{ "key": "csp_XYQBiu_斗鱼直播", "name": "斗鱼直播(XYQ)", "type": 3, "api": "csp_XYQBiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./json2/斗鱼XYQ.json", "jar": "./tvbox/XYQPlugin_1010.jar"},
-{ "key": "csp_xpath_qiumi", "name": "球迷直播", "type": 3, "api": "csp_XPathFilter", "searchable": 1, "quickSearch": 0, "filterable": 1, "ext": "./json2/qiumi.json"},
-{ "key": "在线直播", "name": "在线直播(SP)", "type": 3, "api": "csp_Yj1211", "searchable": 1, "quickSearch": 0, "filterable": 1},
-{ "key": "Gitcafe", "name": "小纸条", "type": 3, "api": "csp_Gitcafe", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/阿里系列1125.jar", "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"},
-{ "key": "upyunsou", "name": "Up云搜", "type": 3, "api": "csp_Upyunso", "searchable": 1, "quickSearch": 1, "playerType": 1, "filterable": 0, "jar": "./jar/阿里系列1125.jar", "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"},
-{ "key": "yisou", "name": "易搜", "type": 3, "api": "csp_Yisou", "searchable": 1, "quickSearch": 1, "filterable": 0, "jar": "./jar/阿里系列1125.jar", "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"},
-{ "key": "AliPS", "name": "Ali盘搜", "type": 3, "api": "csp_AliPS", "searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/阿里系列1125.jar;", "ext": "https://zdir.kebedd69.repl.co/public/TVBox/.token1.json;asc"}
 
 ],
      "parses": [
