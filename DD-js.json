@@ -11,7 +11,7 @@
 {"key": "csp_GitCafe","name": "纸条┃云盘","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json2/token.txt","jar": "./jar/pandazt.jar"},
 {"key": "csp_GitCafe2","name": "纸条┃云盘2","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json2/token.txt","jar": "./jar/pandazt2.jar"},
 {"key": "Gitcafe",  "name": "搜索 |小纸条(新)",  "type": 3, "api": "csp_Gitcafe", "searchable": 1, "playerType": 1, "quickSearch": 1,"filterable": 1, "ext": "./json2/token.txt","jar":"./jar/zy.jar"},
-{"key":"mtv_xp_找资源搜","name":"搜索 |找资源","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"playerType": 1,"quickSearch":1,"filterable":1,"ext":"./json2/token.txt","jar":"./jar/zy.jar"},
+{"key":"mtv_xp_找资源搜","name":"搜索 |找资源","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"playerType": 1,"quickSearch":1,"filterable":1,"ext":"./json2/token.txt","jar":"./jar/custom_spider（修找资源）.jar"},
 {"key": "upyunsou", "name": "搜索 |Up云搜",      "type": 3,"api": "csp_Upyunso", "searchable": 1,"quickSearch": 1, "playerType": 1,"filterable": 0,"ext": "./json2/token.txt","jar":"./jar/zy.jar"},
 {"key": "yisou",    "name": "搜索 |宜搜",        "type": 3,"api": "csp_Yisou", "searchable": 1,"quickSearch": 1, "playerType": 1, "filterable": 0, "ext": "./json2/token.txt","jar":"./jar/zy.jar"},
 {"key": "AliPS",    "name": "搜索 |AliPS",      "type": 3,"api": "csp_AliPS","searchable": 1, "playerType": 1, "quickSearch": 1,"filterable": 1,"ext": "./json2/token.txt","jar":"./jar/zy.jar"},   
