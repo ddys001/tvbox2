@@ -4,6 +4,10 @@
             "type_name": "绍兴莲花落",
             "type_id": "绍兴莲花落超清"
         },
+         {
+            "type_name": "绍兴鹦哥戏",
+            "type_id": "绍兴鹦哥戏超清"
+        },
         {
             "type_name": "越剧",
             "type_id": "越剧超清"
@@ -26,7 +30,7 @@
         },
         {
             "type_name": "动物世界",
-            "type_id": "动物世界"
+            "type_id": "动物世界超清"
         },
         {
             "type_name": "相声小品",
@@ -34,35 +38,27 @@
         },
         {
             "type_name": "演唱会",
-            "type_id": "演唱会"
+            "type_id": "演唱会超清"
         },
         {
             "type_name": "戏曲",
-            "type_id": "戏曲"
+            "type_id": "戏曲超清"
         },
         {
-            "type_name": "潮剧",
-            "type_id": "潮剧"
+            "type_name": "养蜂",
+            "type_id": "养蜂技术超清"
         },
         {
-            "type_name": "解说",
-            "type_id": "解说"
+            "type_name": "花木嫁接",
+            "type_id": "花木嫁接超清"
         },
         {
-            "type_name": "演讲",
-            "type_id": "演讲"
+            "type_name": "绍兴王坛",
+            "type_id": "绍兴王坛风土人情超清"
         },
         {
-            "type_name": "小姐姐",
-            "type_id": "小姐姐超清"
-        },
-        {
-            "type_name": "游戏",
-            "type_id": "游戏"
-        },
-        {
-            "type_name": "三国杀",
-            "type_id": "三国杀"
+            "type_name": "绍兴柯桥",
+            "type_id": "绍兴柯桥风土人情超清"
         },
         {
             "type_name": "CODM",
