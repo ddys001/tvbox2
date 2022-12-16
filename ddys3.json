@@ -39,7 +39,7 @@
 { "key": "csp_Vofl", "name": "Voflix┃影视", "type": 3, "api": "csp_Voflix", "searchable": 1, "quickSearch": 1, "filterable": 1},
 { "key": "csp_Zjdr", "name": "追剧达人┃影视", "type": 3, "api": "csp_Zjdr", "searchable": 1, "quickSearch": 1, "filterable": 1},
 { "key": "MV大全","name": "MV大全┃影视","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar": "https://xn--m7r412advb92j21st65a.tk/vod;md5;c4ba98711fac35daff17780d0817f5dc"},
-{"key":"Czsapp","name":"厂长┃影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1", "jar": "./tvbox/XBiu.jar;"},
+{"key":"Czsapp","name":"厂长┃影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1", "jar": "./tvbox/XBiu.jar"},
 { "key": "csp_XBiu_cokemv", "name": "cokemv(XBiu)┃影视", "type": 3, "api": "csp_XBiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html", "jar": "./tvbox/XBiu.jar"},
 { "key": "csp_xbpq_子子影视", "name": "子子(XBPQ)┃影视", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./json/子子影视.json"},
 { "key": "csp_xbpq_胖虎影视", "name": "胖虎(XBPQ)┃影视", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "./json/胖虎影视.json"},
