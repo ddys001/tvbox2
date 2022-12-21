@@ -10,11 +10,13 @@
 //============================================================================================================================================================  
 {"key": "csp_GitCafe","name": "纸条┃云盘","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json2/token.txt","jar": "./jar/pandazt.jar"},
 {"key": "csp_GitCafe2","name": "纸条┃云盘2","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json2/token.txt","jar": "./jar/pandazt2.jar"},
-{"key": "Gitcafe",  "name": "搜索 |小纸条(新)",  "type": 3, "api": "csp_Gitcafe", "searchable": 1, "playerType": 1, "quickSearch": 1,"filterable": 1, "ext": "./json2/token.txt","jar":"./jar/zy.jar"},
-{"key":"mtv_xp_找资源搜","name":"搜索 |找资源","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"playerType": 1,"quickSearch":1,"filterable":1,"ext":"./json2/token.txt","jar":"./jar/custom_spider（修找资源）.jar"},
-{"key": "upyunsou", "name": "搜索 |Up云搜",      "type": 3,"api": "csp_Upyunso", "searchable": 1,"quickSearch": 1, "playerType": 1,"filterable": 0,"ext": "./json2/token.txt","jar":"./jar/zy.jar"},
-{"key": "yisou",    "name": "搜索 |宜搜",        "type": 3,"api": "csp_Yisou", "searchable": 1,"quickSearch": 1, "playerType": 1, "filterable": 0, "ext": "./json2/token.txt","jar":"./jar/zy.jar"},
-{"key": "AliPS",    "name": "搜索 |AliPS",      "type": 3,"api": "csp_AliPS","searchable": 1, "playerType": 1, "quickSearch": 1,"filterable": 1,"ext": "./json2/token.txt","jar":"./jar/zy.jar"},   
+{"key":"纸条","name":"阿里 | 纸条","type":3,"api":"csp_Paper","ext":"./lib/token.txt"},
+  
+{"key":"易搜","name":"阿里 | 易搜","type":3,"api":"csp_YiSo","ext":"./lib/token.txt"},
+{"key":"盘搜","name":"阿里 | 盘搜","type":3,"api":"csp_PanSou","ext":"./lib/token.txt"},
+{"key":"UP云搜","name":"阿里 | UP云搜","type":3,"api":"csp_UpYun","ext":"./lib/token.txt"},
+{"key":"找資源","name":"阿里 | 找資源","type":3,"api":"csp_Zhaozy","ext":"./lib/token.txt"},
+  
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./js/alist.json"},
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"./js/alistjar.json"},
 //============================================================================================================================================================  
@@ -33,6 +35,7 @@
 {"key":"drpy_js_fositv","name":"影视 | fositv[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/fositv.js"},
 {"key":"drpy_js_影渣渣","name":"影视 | 影渣渣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影渣渣.js"},
 {"key":"drpy_js_鸭奈飞","name":"影视 | 鸭奈飞[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞.js"},
+{"key":"drpy_js_美剧网","name":"影视 | 美剧网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/美剧网.js"},
 {"key":"drpy_js_NFM影视","name":"影视 | NFM影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/NFM影视.js"},
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
 {"key":"drpy_js_HDmoli","name":"影视 | HDmoli[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/HDmoli.js"},
@@ -72,6 +75,7 @@
 {"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/兔小贝.js"},
 {"key":"drpy_js_AnFuns","name":"动漫 | AnFuns[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AnFuns.js"},
 {"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AGE动漫.js"},
+{"key":"drpy_js_动漫岛","name":"动漫 | 动漫岛[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/动漫岛.js"},
 {"key":"drpy_js_异世界动漫","name":"动漫 | 异世界动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/异世界动漫.js"},
 {"key":"drpy_js_007影视","name":"影视 | 007影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/007影视.js"},
 {"key":"drpy_js_1080P","name":"影视 | 1080P[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/1080P.js"},
