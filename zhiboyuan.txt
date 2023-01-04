@@ -742,6 +742,7 @@
 凤凰卫视,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清1080P
 凤凰卫视,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$高清720P
 
+鳳凰資訊,http://2022.stream-link.org/playlist/phtv_info
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8$高清1080P
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$高清720P
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8$高清1080P
@@ -817,6 +818,21 @@ RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
 澳视体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8$高清720P
 澳视体育,http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8$高清720P
 澳视体育,http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8$高清720P
+
+半岛新闻-01,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+半岛新闻-02,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+
+中视经典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
+民视综艺,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+公视戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+八大精彩,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+
 三立新闻,http://23.237.10.66:16342
 TVBS新闻,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=30
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -873,9 +889,60 @@ NOW新闻台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=12
 无线新闻台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=7
 
 ⚛️世界频道,#genre#
+
 亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
+半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻-01,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+半岛新闻-02,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+Channel News Asia『蓝光』,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA(1080p)[480*270],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡lU,http://50.7.220.74:8278/ChannelU/playlist.m3u8?tid=m014a6e987db6&ct=18336&tsum=fa5cb77a8be6edc061828d231e5769f9
+美·NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美·NASA Public Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+CNBC新闻,http://50.7.220.74:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
+BBC新闻,http://50.7.220.74:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+CBS新闻-01,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_8.m3u8
+CBS新闻-02,https://www.cbsnews.com/common/video/cbsn_header_prod.m3u8
+CNN新闻频道,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+澎博财经-02,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+ABC新闻频道,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+PBSAmerica,https://pbs-samsunguk.amagi.tv/playlist.m3u8
+CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+Inwonder,https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+日·NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+日·QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+NHK国际频道-01,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NHK国际频道-02,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+高尔夫台,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+MTV音乐频道,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+
+MTV音乐,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+MBC韩剧,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+KBS国际,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+KBS国际,https://livecdn.fptplay.net:443/sdb/kbs_hls.smil/playlist.m3u8
+TVN 综合娱乐,http://iptv.tvfix.org/hls/tvn.m3u8
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8?
+VOA中文卫视,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/index_0720_av-p.m3u8?sd=10rebase=on
+CNN新闻,http://50.7.220.74:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
+CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8 
 CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
 CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8?zshijd
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
