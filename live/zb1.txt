@@ -24,22 +24,19 @@ CCTV4,http://39.135.138.59:18890/PLTV/88888888/224/3221225621/index.m3u8
 CCTV4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
 CCTV4,,http://111.13.42.230/PLTV/88888888/224/3221226470/1.m3u8
 
-CCTV5-高清(1),http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV5-高清(2),https://pull-l3-cny.douyincdn.com/live/c86d5090344c05c5aeff98c36cc3f455.m3u8
-CCTV5-高清(3),https://live.olelive.com:6443/live/CCTV5HD_bc/hls.m3u8
-CCTV5-高清(4),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5-高清(5),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5-高清(6),https://live.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8
-CCTV5-高清(7),https://cdn.rysplive.com/live/cctv5/hls.m3u8
+CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5-高清,https://live.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8
+CCTV5-高清,https://cdn.rysplive.com/live/cctv5/hls.m3u8
 世界杯1, http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://117.169.121.162:6610/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5 3M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
-五星体育(1),http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育(2),http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-五星体育(3),http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+五星体育,http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+五星体育,http://111.29.9.48:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 咪咕体育-4K-HLG源,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 咪咕视频,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 抖音4K50P世界杯源,http://159.75.85.63:5678/zb.php?id=douyin
