@@ -1674,6 +1674,7 @@ Inwonder,https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
 日·QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 NHK国际频道-01,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 NHK国际频道-02,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+People TV (1080p),https://lnc-people-tv.tubi.video/index.m3u8
 
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 高尔夫台,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
