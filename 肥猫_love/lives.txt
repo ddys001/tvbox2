@@ -460,7 +460,7 @@ Fastnfunbox,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15231/index.m3u8
 Insport HD,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/16071/index.m3u8
 
 
-⚛️豆豆TV5,#genre#
+⚛️豆豆直播5,#genre#
 CCTV1,https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
 CCTV2,https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
 CCTV3,https://live.v1.mk/api/ghyx.php?id=CCTV3HD_6000
@@ -571,7 +571,7 @@ CETV4 标清,https://live.v1.mk/api/ghyx.php?id=CETV4HD_2000
 茶频道 标清,https://live.v1.mk/api/ghyx.php?id=ChaPinDaoHD_2000
 足球频道,https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
 
-⚛️豆豆TV6,#genre#
+⚛️豆豆直播6,#genre#
 欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 CCTV-4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
 CCTV16-4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
