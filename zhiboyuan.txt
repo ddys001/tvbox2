@@ -264,7 +264,7 @@ CETV-4,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/
 百变课堂,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
 看天下精选,http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
 
-🍇豆豆TV2,#genre#
+⚛️豆豆TV2,#genre#
 CCTV16-4K,https://www.whalenas.com/bestv/index.php?id=cctv16hd4k/15000000
 CCTV-4K,https://www.whalenas.com/bestv/index.php?id=cctv4k/15000000
 欢笑剧场4k,https://www.whalenas.com/bestv/index.php?id=hxjc4k/15000000
