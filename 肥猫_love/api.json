@@ -92,6 +92,7 @@
    {"name":"Json轮询","type":2,"url":"Sequence"},
    {"name":"Json并发","type":2,"url":"Parallel"},
    {"name":"解析聚合","type":3,"url":"Demo"},
+   {"name":"豆豆","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
    {"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","header":{"User-Agent":"Mozilla/5.0"}},
    {"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","header":{"User-Agent":"Mozilla/5.0"}},
    {"name":"风起兖州","type":0,"url":"http://jx.gbxy.net.cn/?url="},
