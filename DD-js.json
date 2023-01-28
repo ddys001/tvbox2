@@ -76,7 +76,6 @@
 {"key":"drpy_js_88看球","name":"体育 | 88看球[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/88看球.js"},
 {"key":"drpy_js_310直播","name":"体育 | 310直播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/310直播.js"},
 {"key":"drpy_js_抓饭体育","name":"体育 | 抓饭体育[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/抓饭体育.js"},
-{"key":"drpy_js_学生录像","name":"体育 | 学生录像[js0]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/学生球赛录像.js"},
 //============================================================================================================================================================   
 {"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/兔小贝.js"},
 {"key":"drpy_js_AnFuns","name":"动漫 | AnFuns[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AnFuns.js"},
@@ -178,7 +177,7 @@
 //============================================================================================================================================================ 
 {"key":"drpy_js_苹果爱微","name":"影视| 爱苹果[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/苹果爱微.js"},
 //===========================================================================================================================================================
-{"key": "push_agent","name": "阿里 |推送","type": 3,"api": "csp_Push","ext": "./json2/token.txt"}],
+{"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "./lib/token.txt"}],
 //============================================================================================================================================================  
  
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZGR5czAwMS90dmJveDIvbWFzdGVyL3poaWJveXVhbi50eHQ="]}]}],
