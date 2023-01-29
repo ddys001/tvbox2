@@ -1,5 +1,10 @@
+//https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master
+
+//tg频道 https://t.me/TVBox_local,tg群@tvboxlocal,qq频道:TVBox本地包
+
+
 {
-  "spider": "./mainjar.jar;md5;dce4a45660b1e61b6f02113cbab13e16",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/饭太硬/mainjar.jar;md5;dce4a45660b1e61b6f02113cbab13e16",
   "wallpaper": "https://饭太硬.ga/深色壁纸/api.php",
   "lives": [
     {
@@ -14,7 +19,7 @@
       ]
     }
   ],
-//tg频道 https://t.me/TVBox_local,tg群@tvboxlocal,qq频道:TVBox本地包
+
   "sites": [
     {
       "key": "js豆瓣",
