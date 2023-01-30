@@ -4,8 +4,8 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2Z0eXl5LnRrL2xpdmUudHh0"]}]}],
 
 "sites":[
-{"key":"csp_SP360","name":"360┃SP","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"js豆瓣","name":"豆瓣┃豆豆祝大家新年快乐！事事如意！","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
+{"key":"csp_SP360","name":"360┃豆豆祝大家新年快乐！事事如意！","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"js豆瓣","name":"js豆瓣┃榜单","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key": "桉t4","name": "豆瓣榜单（桉T4）","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=c7c37706f23645eebf037ed19f55660c&timeout=6", "searchable": 1,"quickSearch": 1,"filterable": 1 },
   
 {"key":"csp_Alist1","name":"Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cdn.饭太硬.ga/x/json/alist.json"},
