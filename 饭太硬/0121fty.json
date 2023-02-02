@@ -21,6 +21,16 @@
   ],
 
   "sites": [
+     {
+      "key": "csp_SP360",
+      "name": "📺360┃SP",
+      "type": 3,
+      "api": "csp_SP360",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "js豆瓣",
       "name": "豆瓣┃首页",
@@ -128,6 +138,16 @@
       "ext": "./Bili/biliych.json"
     },
     {
+      "key": "csp_77",
+      "name": "👒七七┃SP",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_kuaikan",
       "name": "👀快看┃SP",
       "type": 3,
@@ -225,16 +245,6 @@
       "name": "✌BTtwo┃SP",
       "type": 3,
       "api": "csp_Bttoo",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_77",
-      "name": "👒七七┃SP",
-      "type": 3,
-      "api": "csp_Kunyu77",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -371,16 +381,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_SP360",
-      "name": "📺360┃SP",
-      "type": 3,
-      "api": "csp_SP360",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   
     {
       "key": "teng",
       "name": "🐧腾腾┃SP",
