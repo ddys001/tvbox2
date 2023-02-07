@@ -12,8 +12,8 @@
 //============================================================================================================================================================  
 {"key": "csp_GitCafe","name": "纸条┃云盘","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json2/token.txt","jar": "./jar/pandazt.jar"},
 {"key": "csp_GitCafe2","name": "纸条┃云盘2","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json2/token.txt","jar": "./jar/pandazt2.jar"},
-
 {"key": "纸条","name":"阿里 | 纸条","type":3,"api":"csp_Paper","ext":"./lib/token.txt"},  
+  
 {"key": "Yisou","name": "易搜┃(仅搜索)","type": 3,"api": "csp_Yisou", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://我不是.肥猫.love:63/token.php", "jar": "./jar/zy.jar"},
 {"key": "Zhaozy","name": "找资源┃(仅搜索)","type": 3,"api": "csp_Zhaozy","playerType": 1,"searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "http://我不是.肥猫.love:63/token.php","jar": "./jar/zy.jar"},
 {"key": "Upyunso", "name": "云搜┃(仅搜索)","type": 3, "api": "csp_Upyunso","playerType": 1, "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://我不是.肥猫.love:63/token.php","jar": "./jar/zy.jar"},
@@ -21,15 +21,20 @@
   
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./js/alist.json"},
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"./js/alistjar.json"},
-  
 //=====================================================================================================================================================================
 {"key":"Gitcafe","name":"T纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"./jar/custom_spider.jar;md5;d2b53a10e9e3edd1ed99ce6deb18e159"},
 {"key":"Upso","name":"T云搜","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"./jar/custom_spider.jar;md5;d2b53a10e9e3edd1ed99ce6deb18e159"},
 {"key":"Zhaozy","name":"T资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"./jar/custom_spider.jar;md5;d2b53a10e9e3edd1ed99ce6deb18e159"},
 {"key":"YiSo","name":"T易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"./jar/custom_spider.jar;md5;d2b53a10e9e3edd1ed99ce6deb18e159"},
 {"key":"AliPS","name":"T盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"./jar/custom_spider.jar;md5;d2b53a10e9e3edd1ed99ce6deb18e159"},
+//===================================================================================================================================================================
+{"key":"纸条","name":"阿里 三 纸条","type":3,"api":"csp_Paper","ext":"./lib/token.txt"},
+{"key":"易搜","name":"阿里 三 易搜","type":3,"api":"csp_YiSo","ext":"./lib/token.txt"},
+{"key":"盘搜","name":"阿里 三 盘搜","type":3,"api":"csp_PanSou","ext":"./lib/token.txt"},
+{"key":"UP云搜","name":"阿里 三 UP云搜","type":3,"api":"csp_UpYun","ext":"./lib/token.txt"},
+{"key":"找資源","name":"阿里 三 找資源","type":3,"api":"csp_Zhaozy","ext":"./lib/token.txt"},
   
-//============================================================================================================================================================  
+//===================================================================================================================================================================  
 {"key":"drpy_js_荐片","name":"P2P | 荐片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
