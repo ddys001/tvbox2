@@ -1583,7 +1583,6 @@ RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
 半岛新闻-02,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
@@ -1592,7 +1591,8 @@ TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 公视戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
 八大精彩,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-
+三立inews新闻,https://git.io/Jgkxj
+三立新闻,https://git.io/Jgkxp
 三立新闻,http://23.237.10.66:16342
 TVBS新闻,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=30
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -1609,6 +1609,8 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 东森超视,rtmp://59.124.75.138:1935/sat/tv331$高清720P
 东森超视,rtmp://59.124.75.150/sat/tv331$高清720P
 东森电影,http://120.84.96.47:808/hls/32/index.m3u8$高清1080P
+中天新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
+中天新闻,https://git.io/Jgkpy
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?blog.ntnas.top$高清1080P
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8$高清1080P
 中天新闻,http://60.251.39.247:8504/.m3u8$高清1080P
@@ -1640,10 +1642,13 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 民视,rtmp://59.124.75.138/sat/tv051$高清720P
 寰宇新闻台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=38
 华视新闻资讯,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=37
+中视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
+中视新闻,https://git.io/Jgkxz
 中视新闻,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=36
+民视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+民视新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
 台视新闻,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=32
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$高清1080P
-民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$高清1080P
 NOW新闻台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=12
 有线新闻台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=18
 无线新闻台,http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=7
