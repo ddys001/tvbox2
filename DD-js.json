@@ -225,8 +225,9 @@
 //============================================================================================================================================================  
  
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":
-["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZGR5czAwMS90dmJveDIvbWFzdGVyL3poaWJveXVhbi50eHQ=","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","logo": "http://epg.51zmt.top:8000/{logo}"]}]}],
+["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZGR5czAwMS90dmJveDIvbWFzdGVyL3poaWJveXVhbi50eHQ="]}]}],
  
+//"lives": [{"name": "直播","type": 1,"url": "./live.json","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","logo": "http://epg.51zmt.top:8000/{logo}"}],
 //============================================================================================================================================================  
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
