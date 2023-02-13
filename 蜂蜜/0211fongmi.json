@@ -1,5 +1,7 @@
+//https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master
+
 { 
-"spider": "./custom_spider.jar;md5;384628eab024a2a40a57835d2f0684d8",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/蜂蜜/custom_spider.jar;md5;384628eab024a2a40a57835d2f0684d8",
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",  
 "lives": [{"name": "直播","type": 1,"url": "./live.json","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","logo": "http://epg.51zmt.top:8000/{logo}"}],
 
