@@ -1,8 +1,8 @@
 {
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/6lbj268a1eea22863420a86ab468eb9fbc4f5;md5;a0a7ea766a7ed29fe1b93c77f54641ad",
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2Z0eXl5LnRrL2xpdmUudHh0"]}]}],
-
+"lives":[{"name":"live","type":0,"url":"http://ftyyy.tk/json/tvlist.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
+  
 "sites":[
 {"key":"csp_SP360","name":"360┃豆豆祝大家新年快乐！事事如意！","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js豆瓣","name":"js豆瓣┃榜单","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 1},
