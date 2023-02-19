@@ -21,7 +21,7 @@
             "filterable": 1
         },
 	    
-	{"key":"bili","name":"VIP绍兴","type":3,"api":"csp_Bili","ext":"./SX-bili/Bili.txt","jar":"http://我不是.肥猫.love:63/Jar/panda230216.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"},
+	{"key":"csp_Bili","name":"绍兴┃特色","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./SX-bili/Bili.txt","jar":"http://我不是.肥猫.love:63/Jar/panda230216.jar;md5;5761F54CCFE6157E49F2F980F51D26FD"},
 	    
 	{
             "key": "AList",
