@@ -91,6 +91,16 @@
             "filterable": "1",
             "ext": "8b48a0834ee08e5e64977bc9fc8bc3e0"
         },
+	    {
+      "key": "panda",
+      "name": "港澳影视",
+      "type": 1,
+      "api": "https://everydaytv.top/index.html/pandays.php",
+      "playUrl": "https://everydaytv.top/index.html/pandajx.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
         {
             "key": "世界杯",
             "name": "一起看",
