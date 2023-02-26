@@ -9,7 +9,8 @@
 //{"key":"bili","name":"绍兴 | 特色","type":3,"api":"csp_Bili","ext":"./js/绍兴特色.json"},
 {"key":"bili","name":"绍兴| 特色","type":3,"api":"csp_Bili","ext":"./SX-bili/Bili.txt"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
-
+{"key":"bili","name":"音乐|演唱","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
+  
 //============================================================================================================================================================  
 {"key": "csp_GitCafe","name": "纸条┃云盘","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json2/token.txt","jar": "./jar/pandazt.jar"},
 {"key": "csp_GitCafe2","name": "纸条┃云盘2","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json2/token.txt","jar": "./jar/pandazt2.jar"},
@@ -104,6 +105,8 @@
 {"key":"drpy_js_种子音乐","name":"音频 | 种子音乐[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/种子音乐.js"},
 {"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/蜻蜓FM.js","playerType":"2"},
 {"key":"drpy_js_喜马拉雅","name":"听书 | 喜马拉雅[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/喜马拉雅.js","playerType":"2"},
+{"key":"drpy_js_六月听书","name":"听书 | 六月听书[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/六月听书.js","playerType":"2"},
+{"key":"drpy_js_博看听书","name":"听书 | 博看听书[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/博看听书.js","playerType":"2"},
 {"key":"drpy_js_海洋听书","name":"听书 | 海洋听书[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/海洋听书.js","playerType":"2"},
 {"key":"drpy_js_海盗听书","name":"听书 | 海盗听书[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/海盗听书.js","playerType":"2"},
 {"key":"drpy_js_听书网","name":"听书 | 听书网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/听书网.js","playerType":"2"},
@@ -134,6 +137,7 @@
 {"key":"drpy_js_动漫岛","name":"动漫 | 动漫岛[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/动漫岛.js"},
 {"key":"drpy_js_嘶哩嘶哩","name":"动漫 | 嘶哩嘶哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/嘶哩嘶哩.js"},
 {"key":"drpy_js_奇米动漫","name":"动漫 | 奇米动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇米动漫.js"},
+{"key":"drpy_js_曲奇动漫","name":"动漫 | 曲奇动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/曲奇动漫.js"},
 {"key":"drpy_js_妮可动漫","name":"动漫 | 妮可动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/妮可动漫.js"},
 {"key":"drpy_js_怡萱动漫","name":"动漫 | 怡萱动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/怡萱动漫.js"},
 {"key":"drpy_js_异世界动漫","name":"动漫 | 异世界动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/异世界动漫.js"},
@@ -258,8 +262,9 @@
 {"name" : "瞄影嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="},
 {"name": "星辰云解析","type": 1,"url": "https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=","ext": {"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
  
-{"name":"懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-{"name":"猫爪1","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+{"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
+{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"ok","type":0,"url":"https://okjx.cc/?url="},
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 {"name":"不累","type":0,"url":"https://blbfq.f3322.net/player/analysis.php?v=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
