@@ -9,7 +9,6 @@
 //{"key":"bili","name":"绍兴 | 特色","type":3,"api":"csp_Bili","ext":"./js/绍兴特色.json"},
 {"key":"bili","name":"绍兴| 特色","type":3,"api":"csp_Bili","ext":"./SX-bili/Bili.txt"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
-{"key":"bili","name":"音乐|演唱","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
   
 //============================================================================================================================================================  
 {"key": "csp_GitCafe","name": "纸条┃云盘","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json2/token.txt","jar": "./jar/pandazt.jar"},
