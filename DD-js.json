@@ -39,12 +39,12 @@
 {"key":"UP云搜","name":"阿里 三 UP云搜","type":3,"api":"csp_UpYun","ext":"./lib/token.txt"},
 {"key":"找資源","name":"阿里 三 找資源","type":3,"api":"csp_Zhaozy","ext":"./lib/token.txt"},
 //=================================================================================================================================================================
-{ "key": "Czsapp","name": "厂长 | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "8ee655f702d0d21f3643504783babbc3","jar":"img+http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
-{"key": "Kuaikan","name": "快看 | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "459b1cb892e317546676a2c9dcec2bff","jar":"img+http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
-{"key": "Kunyu77","name": "七七 | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "8b48a0834ee08e5e64977bc9fc8bc3e0","jar":"img+http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
-{"key": "Zxzj","name": "在线 | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "23a412dda32885ae2bcb97b956cd7ad4","jar":"img+http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
-{"key": "Lib","name": "Libvio | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "78d057e4d03e47cb62dce13d69b41d6f","jar":"img+http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
-{"key": "Ddys","name": "低端 | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "1cc92323700909e7d46623bc85b958d6","jar":"img+http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
+{ "key": "Czsapp","name": "厂长 | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "8ee655f702d0d21f3643504783babbc3","jar":"http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
+{"key": "Kuaikan","name": "快看 | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "459b1cb892e317546676a2c9dcec2bff","jar":"http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
+{"key": "Kunyu77","name": "七七 | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "8b48a0834ee08e5e64977bc9fc8bc3e0","jar":"http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
+{"key": "Zxzj","name": "在线 | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "23a412dda32885ae2bcb97b956cd7ad4","jar":"http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
+{"key": "Lib","name": "Libvio | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "78d057e4d03e47cb62dce13d69b41d6f","jar":"http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
+{"key": "Ddys","name": "低端 | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "1cc92323700909e7d46623bc85b958d6","jar":"http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
 //===================================================================================================================================================================  
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
