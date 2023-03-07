@@ -1,6 +1,6 @@
 {
- "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;15963d2c360e6ecab89c962fc205a9b6",
-"wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c7a548f950e99c50a3465918f2aab475",
+   "wallpaper":"http://饭太硬.ga/深色壁纸/api.php",
  
 "lives": [
         {
@@ -376,7 +376,7 @@
         {
             "name": "网络",
             "type": 1,
-            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
+            "url": "https://b.umkan.cc/API.php?url="
         },
         {
             "name": "大家",
@@ -414,12 +414,7 @@
         {
             "name": "我再",
             "type": 1,
-            "url": "http://lanlan.ckflv.cn/?url=",
-            "ext": {
-                "header": {
-                    "User-Agent": "Dart/2.14(dart:io)"
-                }
-            }
+            "url": "https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url="
         },
         {
             "name": "去",
@@ -429,10 +424,7 @@
         {
             "name": "找来",
             "type": 1,
-            "url": "https://www.nxflv.com/?url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
+            "url": "http://47.108.39.237:55/api/jsonindex.php/?key=dp2xOsl8Nws8uFdY0E&url="
         }
     ],
   
