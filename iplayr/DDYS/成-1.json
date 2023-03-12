@@ -1,59 +1,40 @@
 {
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
-"title":"cableav",
+"title":"javday",
 "episode_flag":false,
 "landscape_flag":true,
+"referer":"https://javday.tv/",
 "category": [{
-		"title": "中國主播",
-		"url0": "https://cableav.tv/category/chinese-live-porn/",
-		"url1": "https://cableav.tv/category/chinese-live-porn/page/{pg}/"
+			"title": "新作上市",
+			"url0": "https://javday.tv/category/new-release/",
+			"url1": "https://javday.tv/category/new-release/page/{pg}/"
 		},
-	     {
-		"title": "韓國主播",
-		"url0": "https://cableav.tv/category/korean-live-porn/",
-		"url1": "https://cableav.tv/category/korean-live-porn/page/{pg}/"
+    {
+			"title": "有码",
+			"url0": "https://javday.tv/category/censored/",
+			"url1": "https://javday.tv/category/censored/page/{pg}/"
 		},
-	     {
-		"title": "自拍流出",
-		"url0": "https://cableav.tv/category/selfie-porn/",
-		"url1": "https://cableav.tv/category/selfie-porn/page/{pg}/"
+    {
+			"title": "无码",
+			"url0": "https://javday.tv/category/uncensored-leaked/",
+			"url1": "https://javday.tv/category/uncensored-leaked/page/{pg}/"
 		},
-	     {
-		"title": "主播福利",
-		"url0": "https://cableav.tv/category/private-show-porn/",
-		"url1": "https://cableav.tv/category/private-show-porn/page/{pg}/"
-		},
-	     {
-		"title": "網紅福利",
-		"url0": "https://cableav.tv/category/kol-selfie-porn/",
-		"url1": "https://cableav.tv/category/kol-selfie-porn/page/{pg}/"
-		},
-	     {
-		"title": "91大神",
-		"url0": "https://cableav.tv/category/master-91porn/",
-		"url1": "https://cableav.tv/category/master-91porn/page/{pg}/"
-		},
-	     {
-		"title": "國產AV",
-		"url0": "https://cableav.tv/category/chinese-av-porn/",
-		"url1": "https://cableav.tv/category/chinese-av-porn/page/{pg}/"
-		},
-	     {
-		"title": "JAV 4K",
-		"url0": "https://cableav.tv/category/jav-4k/",
-		"url1": "https://cableav.tv/category/jav-4k/page/{pg}/"
+    {
+			"title": "糖心",
+			"url0": "https://javday.tv/category/txvlog/",
+			"url1": "https://javday.tv/category/txvlog/page/{pg}/"
 		}
 	],  
-"vod_node":"//div[contains(@class, 'blog-items')]//article",
-"vod_info":"//time[contains(@class, 'entry-date')]",
-"vod_score":"//span[contains(@class,'duration-text')]",
-"vod_title":"//h3/a",
-"vod_image_id":"//img/@data-src",
-"vod_image_regex":"",
-"vod_image_url":"{id}",
-"vod_link_id":"//h3/a/@href",
-"vod_link_url":"{id}",
-"play_regex":"c2luZ2xlX3ZpZGVvX3VybCI6IihbXiJdKyk=",
+"vod_node":"//div[contains(@class, 'video-wrapper')]//div[contains(@class, 'col-style')]",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//span[@class='title']",
+"vod_image_id":"",
+"vod_image_regex":"YmFja2dyb3VuZC1pbWFnZTogdXJsXCgoW15cKV0rKQ==",
+"vod_image_url":"https://javday.tv{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"https://javday.tv{id}",
+"play_regex":"c291cmNlIHNyYz0nKFteJ10rKQ==",
 "play_url":"{id}",
 "playlist_flag":false,
 "playlist_group_node":"",
@@ -61,14 +42,14 @@
 "playlist_link_id":"",
 "playlist_link_url":"",
 "playlist_info":"",
-"search_flag":false,
-"search_url_first_page":"",
-"search_url_other_page":"",
-"search_vod_node":"",
-"search_vod_title":"",
+"search_flag":true,
+"search_url_first_page":"https://javday.tv/search/?wd={wd}",
+"search_url_other_page":"https://javday.tv/search/page/{pg}/wd/{wd}/",
+"search_vod_node":"//div[contains(@class, 'video-wrapper')]//div[contains(@class, 'col-style')]",
+"search_vod_title":"//span[@class='title']",
 "search_vod_image_id":"",
-"search_vod_image_regex":"",
-"search_vod_image_url":"",
-"search_vod_link_id":"",
-"search_vod_link_url":""
+"search_vod_image_regex":"YmFja2dyb3VuZC1pbWFnZTogdXJsXCgoW15cKV0rKQ==",
+"search_vod_image_url":"https://javday.tv{id}",
+"search_vod_link_id":"//a/@href",
+"search_vod_link_url":"https://javday.tv{id}"
 }
