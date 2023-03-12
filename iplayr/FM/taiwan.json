@@ -1,8 +1,7 @@
 {
 "uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
 "title":"台湾电台",
-"type":"radio",
-"channels":[
+"data": [
 {"name":"THBS 清華電台",
 "logo":"https://moon.fm/images/radio_logo/041fd820-f153-69fd-2cce-ba3e15c652ea.jpg",
 "url":"nQn9F6k7zaryGj5kp4Vp5jqCy7KSz2ib3eumqT77C+Q="},
