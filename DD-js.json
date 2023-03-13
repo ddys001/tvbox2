@@ -35,11 +35,11 @@
 {"key":"YiSo","name":"T易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;15963d2c360e6ecab89c962fc205a9b6"},
 {"key":"AliPS","name":"T盘搜","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;15963d2c360e6ecab89c962fc205a9b6"},
 //===================================================================================================================================================================
-{"key":"纸条","name":"阿里 三 纸条","type":3,"api":"csp_Paper","ext":"./lib/token.txt","jar":"./jar/ali-5.jar"},
-{"key":"易搜","name":"阿里 三 易搜","type":3,"api":"csp_YiSo","ext":"./lib/token.txt","jar":"./jar/ali-5.jar"},
-{"key":"盘搜","name":"阿里 三 盘搜","type":3,"api":"csp_PanSou","ext":"./lib/token.txt","jar":"./jar/ali-5.jar"},
-{"key":"UP云搜","name":"阿里 三 UP云搜","type":3,"api":"csp_UpYun","ext":"./lib/token.txt","jar":"./jar/ali-5.jar"},
-{"key":"找資源","name":"阿里 三 找資源","type":3,"api":"csp_Zhaozy","ext":"./lib/token.txt$$$ddys$$$112233","jar":"./jar/ali-5.jar"},
+{"key":"纸条","name":"阿里 三 纸条","type":3,"api":"csp_Paper","ext":"./lib/token.txt"},
+{"key":"易搜","name":"阿里 三 易搜","type":3,"api":"csp_YiSo","ext":"./lib/token.txt"},
+{"key":"盘搜","name":"阿里 三 盘搜","type":3,"api":"csp_PanSou","ext":"./lib/token.txt"},
+{"key":"UP云搜","name":"阿里 三 UP云搜","type":3,"api":"csp_UpYun","ext":"./lib/token.txt"},
+{"key":"找資源","name":"阿里 三 找資源","type":3,"api":"csp_Zhaozy","ext":"./lib/token.txt$$$ddys$$$112233"},
 //=================================================================================================================================================================
 { "key": "Czsapp","name": "厂长 | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "8ee655f702d0d21f3643504783babbc3","jar": "img+http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
 {"key": "Kuaikan","name": "快看 | 唐","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "459b1cb892e317546676a2c9dcec2bff","jar": "img+http://hutool.ml/jar;md5;fbacd3ee3b4e0d823dbc574ef7765471"},
