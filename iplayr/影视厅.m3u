@@ -46,14 +46,18 @@ http://aldirect.corp-hls.huya.com/src/1524434111-1524434111-6547394651651833856-
 http://aldirect.corp-hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.m3u8??
 #EXTINF:-1,金庸武侠系列
 http://aldirect.corp-hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.m3u8??
+#EXTINF:-1,经典港剧
+http://diyp.112114.xyz/douyu/4549169
 #EXTINF:-1,4.神乐影片1
 http://epg.112114.xyz/douyu/122402
 #EXTINF:-1,5.神乐影片2
 http://epg.112114.xyz/douyu/85894
 #EXTINF:-1,10.漫威影片
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1,13.港台电影
+#EXTINF:-1,刘德华电影1
 http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1,刘德华电影2
+http://epg.112114.xyz/douyu/8985415
 #EXTINF:-1,14.动漫系列
 http://epg.112114.xyz/douyu/8985415
 #EXTINF:-1,15.喜剧经典
@@ -99,7 +103,8 @@ http://epg.112114.xyz/douyu/5423
 #EXTINF:-1,53.麓山迷踪
 http://epg.112114.xyz/douyu/4505431
 
-
+#EXTINF:-1,港刑侦破案
+http://diyp.112114.xyz/douyu/8323493
 #EXTINF:-1,32.避风港电视剧
 http://epg.112114.xyz/douyu/9826611
 #EXTINF:-1,新版三国
@@ -116,7 +121,10 @@ http://epg.112114.xyz/douyu/3439096
 http://epg.112114.xyz/douyu/6027991
 #EXTINF:-1,杨光的快乐生活
 http://epg.112114.xyz/douyu/6899895
-
+#EXTINF:-1,康熙私访记
+http://diyp.112114.xyz/douyu/7550220
+#EXTINF:-1,雍正专属
+http://diyp.112114.xyz/douyu/9650836
 
 #EXTINF:-1,影厅1
 http://epg.112114.xyz/douyu/431460
