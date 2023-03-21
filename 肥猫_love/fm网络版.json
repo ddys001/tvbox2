@@ -92,15 +92,7 @@
     "name":"redirect",
     "urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="]}]
     },
- {
-      "name": "live",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/zhiboyuan.txt",
-      "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    },    
-    
+
 {
       "name": "live",
       "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
