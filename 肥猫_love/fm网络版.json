@@ -8,15 +8,15 @@
  
 //=============================================================================================================================================================
 //{"key": "Alist2","name": "🅿┃Alis ┃搜索","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"http://我不是.肥猫.love:63/json/alist3.json","jar":"http://我不是.肥猫.love:63/Jar/Alist3.jar;md5;906B337D4B4BAEF13292D004E5FD8F9B"},
-//{"key":"csp_GitCafe","name":"📜┃纸条┃雲盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/lib/token.txt"},
+//{"key":"csp_GitCafe","name":"📜┃纸条┃雲盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"},
  
 {"key" : "Alist1","name" :"🅿┃Alis ┃网盘","type" : 3,"api" : "http://我不是.肥猫.love:63/JS/alist.min.js","ext" : "http://我不是.肥猫.love:63/alist.json"},
-{"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/lib/token.txt"},
+{"key":"csp_Paper","name":"📜┃纸条┃云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/token.php"},
  
-{"key":"csp_search_Yisou","name":"🐏┃易搜┃搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/lib/token.txt"},
-{"key":"csp_search_Zhaozy","name":"🐑┃资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/lib/token.txt$$$yingshi$$$abcd1234"},
-{"key":"csp_search_Upyunso","name":"🐐┃云搜┃搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/lib/token.txt"},
-{"key":"csp_search_Alips","name":"🦌┃盘搜┃搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/lib/token.txt"},
+{"key":"csp_search_Yisou","name":"🐏┃易搜┃搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
+{"key":"csp_search_Zhaozy","name":"🐑┃资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch" :0,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php$$$yingshi$$$abcd1234"},
+{"key":"csp_search_Upyunso","name":"🐐┃云搜┃搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
+{"key":"csp_search_Alips","name":"🦌┃盘搜┃搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"http://我不是.肥猫.love:63/token.php"},
 //===============================================================================================================================================================
 {"key":"Czsapp","name":"🏭┃厂长┃影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key": "csp_BuLei","name":"🍩┃布雷┃影视","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,ext:"https://www.bulei.cc"},
@@ -30,7 +30,7 @@
 {"key":"Xinsj","name":"🌟┃视觉┃影视","type":"3","api":"csp_Xinsj","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.6080dy2.com"},
 {"key":"js七七","name":"🌈┃七七┃影视","type":3,"api":"http://id.ganggang.live:63/js/drpy.min.js","ext":"http://id.ganggang.live:63/js/七七.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Kuaikan","name":"👀┃快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "tv/$$$dlJYWW16R0IqbmlsV3JMdCNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbm16R0JiKnpYUCNWWg==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==","m3u8ads": "hd.youyhn.com"},
 {"key": "xxyy","name": "🦄┃小路┃影院","type":1,"api":"http://47.108.39.249:9684/ms=10A","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["4K专区"]},
 {"key":"csp_Lib","name":"💫┃Lib  ┃影视","type":3,"api":"csp_Libvio","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://tv.libvio.cc"},
 {"key":"Lezhu","name":"🐷┃乐猪┃影视","api":"csp_XBPQ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://我不是.肥猫.love:63/json/乐猪.json"},
@@ -81,43 +81,78 @@
 ],
 //=====================================================================================================================================================
 
-"lives":[
-
-    {"group":"redirect",
-    "channels":[{
-    "name":"redirect",
-    "urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="]}]
-    },
-
-{
-      "name": "live",
-      "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
-      "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    }],
+"lives": [
+        {
+            "name": "live",
+            "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
+            "type": 0,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36"
+        },
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "redirect",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="
+                    ]
+                }
+            ]
+        }
+    ],
 //========================================================================================================================================================
 "parses":[
 
-{"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"解析聚合","type":3,"url":"Demo"},
-
-//{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
-//{"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20230117?url=","header":{"User-Agent":"Mozilla/5.0"}},
-//{"name":"星辰云解析","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=","header":{"User-Agent":"Mozilla/5.0"}},
-{
-		"name": "bozrc",
-		"type": 0,
-		"url": "https://jx.bozrc.com:4433/player/?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}   
-	},
-	{
+ {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        },
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "bozrc",
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
             "name": "星辰云解析",
             "type": 1,
-            "url": "https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url=",
+            "url": "http://json.key521.cn/api/?key=7ff2e8b5e37bd849ec1045581d1aaa7b&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -154,7 +189,6 @@
                     "优酷视频",
                     "芒果视频",
                     "乐视视频"
-                    
                 ]
             }
         },
@@ -198,13 +232,10 @@
                     "优酷视频",
                     "芒果视频",
                     "乐视视频"
-                    
                 ]
             }
         },
-
-
-{
+        {
             "name": "255",
             "type": 1,
             "url": "http://47.108.39.237:55/api/jsonindex.php/?key=dp2xOsl8Nws8uFdY0E&url=",
@@ -244,12 +275,10 @@
                     "优酷视频",
                     "芒果视频",
                     "乐视视频"
-                    
                 ]
             }
         },
-
-{
+        {
             "name": "肥猫官解",
             "type": 1,
             "url": "https://b.umkan.cc/API.php?url=",
@@ -289,13 +318,15 @@
                     "优酷视频",
                     "芒果视频",
                     "乐视视频"
-                    
                 ]
             }
         },
-{"name" : "瞄影嗅探","type":0,"url":"http://www.miaoys.cc/vip/?url="},
-
-{
+        {
+            "name": "瞄影嗅探",
+            "type": 0,
+            "url": "http://www.miaoys.cc/vip/?url="
+        },
+        {
             "name": "刚刚走过",
             "type": 1,
             "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
@@ -335,15 +366,40 @@
                     "优酷视频",
                     "芒果视频",
                     "乐视视频"
-                    
                 ]
             }
         },
-
-    
-{"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}],
-
-"flags": [
+        {
+            "name": "keyu",
+            "type": 1,
+            "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        }
+    ],
+    "flags": [
         "youku",
         "qq",
         "QQ",
@@ -375,8 +431,8 @@
         "renrenmi",
         "xmm",
         "xigua",
-        "m1905 ",
-        "funshion ",
+        "m1905",
+        "funshion",
         "优酷",
         "芒果",
         "腾讯",
@@ -432,6 +488,6 @@
 
 "wallpaper":"http://我不是.肥猫.love:63/pic/feimao.php","warningText":"精彩马上开始！享受顶级VIP待遇吧！",
 
-"spider":"http://我不是.肥猫.love:63/Jar/panda230320.jar;md5;AF94CC4D3C30F6CEE8B8B20E7B70A0BC" 
+"spider":"http://我不是.肥猫.love:63/Jar/panda230325.jar;md5;B9F2D7A68F72583F8BBF45CED2FD4B68" 
 
 }
