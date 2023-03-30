@@ -1,0 +1,98 @@
+{
+    "spider": "https://jihulab.com/duomv/duo/-/raw/main/spider.jar",
+    "wallpaper": "https://yydsys.top/bg.php",
+    "warningText": "应用边界，免费维护更新。",
+    "sites": [
+        {
+            "key": "js豆瓣",
+            "name": "阿里专线",
+            "type": 3,
+            "api": "https://framagit.org/duomv/duo/-/raw/main/js/drpymin.js",
+            "ext": "https://framagit.org/duomv/duo/-/raw/main/js/douban.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Alist1",
+            "name": "Alist合集",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yydsys.top/duo/json/Alist1.json"
+        },
+        {
+            "key": "小纸条1",
+            "name": "小纸条①",
+            "type": 3,
+            "api": "csp_Paper",
+            "searchable": 1,
+            "filterable": 1,
+            "switchable": 0,
+          "ext": "./lib/token.txt"
+        },
+        {
+            "key": "小纸条2",
+            "name": "小纸条②",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "filterable": 1,
+            "switchable": 0,
+            "jar": "https://yydsys.top/duo/jar/xzt.jar",
+            "ext": "./lib/token.txt"
+        },
+        {
+            "key": "易搜",
+            "name": "4K易搜",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+          "ext": "./ib/token.txt"
+        },
+        {
+            "key": "盘搜",
+            "name": "4K盘搜",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+          "ext": "./lib/token.txt"
+        },
+        {
+            "key": "云搜",
+            "name": "4K云搜",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+          "ext": "./lib/token.txt"
+        },
+        {
+            "key": "找资源",
+            "name": "4K找资源",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": "./lib/token.txt$$$ddys$$$112233"
+        },
+        {
+            "key": "push_agent",
+            "name": "推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+          "ext": "./lib/token.txt"
+        }
+    ]
+}
