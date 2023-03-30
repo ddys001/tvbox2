@@ -3,7 +3,7 @@
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext":"./js/音乐演唱.json"},
-{"key":"drpy_js_我的哔哩","name":"绍兴特色":3,"api":"./lib/drpy2.min.js","ext":"./js/绍兴特色.json,
+{"key":"drpy_js_我的哔哩","name":"绍兴特色":3,"api":"./lib/drpy2.min.js","ext":"./js/绍兴特色.json"},
   
 {"key":"AList","name":"网盘 | Alist[jar]","type":3,"api":"csp_AList","ext":"./js/alistjar.json"},
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./js/alist.json"},
