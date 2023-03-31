@@ -1,4 +1,4 @@
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/fm.jar",
+{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/fm0311.jar",
  "sites":[
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
