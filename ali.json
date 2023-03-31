@@ -1,7 +1,7 @@
 {
     "spider": "https://jihulab.com/duomv/duo/-/raw/main/spider.jar",
     "wallpaper": "https://yydsys.top/bg.php",
-    "warningText": "应用边界，免费维护更新。",
+    "warningText": "豆豆影视",
     "sites": [
         {
             "key": "js豆瓣",
@@ -31,7 +31,7 @@
             "searchable": 1,
             "filterable": 1,
             "switchable": 0,
-          "ext": "./lib/token.txt"
+          "ext": "https://alitoken.repl.co/token.txt"
         },
         {
             "key": "小纸条2",
@@ -42,7 +42,7 @@
             "filterable": 1,
             "switchable": 0,
             "jar": "https://yydsys.top/duo/jar/xzt.jar",
-            "ext": "./lib/token.txt"
+            "ext": "https://alitoken.repl.co/token.txt"
         },
         {
             "key": "易搜",
@@ -52,7 +52,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-          "ext": "./ib/token.txt"
+          "ext": "	https://alitoken.repl.co/token.txt"
         },
         {
             "key": "盘搜",
@@ -62,7 +62,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-          "ext": "./lib/token.txt"
+          "ext": "https://alitoken.repl.co/token.txt"
         },
         {
             "key": "云搜",
@@ -72,7 +72,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-          "ext": "./lib/token.txt"
+          "ext": "https://alitoken.repl.co/token.txt"
         },
         {
             "key": "找资源",
@@ -82,7 +82,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-            "ext": "./lib/token.txt$$$ddys$$$112233"
+            "ext": "https://alitoken.repl.co/token.txt$$$ddys$$$112233"
         },
         {
             "key": "push_agent",
@@ -92,7 +92,7 @@
             "searchable": 1,
             "filterable": 0,
             "switchable": 0,
-          "ext": "./lib/token.txt"
+          "ext": "https://alitoken.repl.co/token.txt"
         }
     ]
 }
