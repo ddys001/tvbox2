@@ -23,6 +23,16 @@
             "api": "https://cj.vodimg.top/api.php/provide/vod/at/xml"
         },
 	     {
+            "type": 1,
+            "name": "爱旦影视⭐️⭐️",
+            "api": "https://lovedan.net/api.php/provide/vod/"
+        },
+	    {
+            "type": 1,
+            "name": "无尽影视⭐️",
+            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/"
+        },
+	     {
             "type": 8,
             "name": "1985影视⭐️",
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/iplayr/DDYS/1985电影.json"
