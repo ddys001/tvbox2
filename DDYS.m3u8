@@ -478,7 +478,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/戏曲.json"
+            "ext": "./json2/戏曲.json"
         },
         {
             "key": "mtv_相声小品",
