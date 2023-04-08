@@ -27,6 +27,11 @@
             "name": "爱旦影视⭐️⭐️",
             "api": "https://lovedan.net/api.php/provide/vod/"
         },
+        {
+            "type": 1,
+            "name": "小草影视⭐️⭐️",
+            "api": "https://www.xsgj.net/api.php/provide/vod/"
+        },
 	    {
             "type": 1,
             "name": "无尽影视⭐️",
