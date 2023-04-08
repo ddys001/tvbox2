@@ -158,7 +158,7 @@
   },
   {"name":"玉兔🐇","searchurl":"https://apiyutu.com/api.php/provide/vod?ac=detail&wd=","searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36","detailurl":"https://apiyutu.com/api.php/provide/vod?ac=detail&ids=","detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"},     
   {"name":"🐯虎牙","searchurl":"https://www.huyaapi.com/api.php/provide/vod?ac=detail&wd=","searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36","detailurl":"https://www.huyaapi.com/api.php/provide/vod?ac=detail&ids=","detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"},
-        
+  {"name":"小草","searchurl":"https://www.xsgj.net/api.php/provide/vod?ac=detail&wd=","searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36","detailurl":"https://www.xsgj.net/api.php/provide/vod?ac=detail&ids=","detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"},   
   {
     "name": "樱花动漫",
     "searchurl": "https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=detail&wd=",
