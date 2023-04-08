@@ -105,6 +105,17 @@
             "ext": "https://alitoken.jason0575.repl.co/token.txt",
             "jar": "./jar/ali-fan.jar"
         },
+	   {
+            "key": "csp_WoGG",
+            "name": "👽玩偶哥哥┃4K",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://alitoken.jason0575.repl.co/token.txt",
+            "jar": "./jar/0407fty.jar"   
+        },
         {
             "key": "小草",
             "name": "️小草采集",
