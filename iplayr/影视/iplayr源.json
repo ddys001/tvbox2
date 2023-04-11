@@ -14,27 +14,42 @@
         },
 		 {
             "type": 0,
-            "name": "天猫资源⭐️⭐️",
+            "name": "🐱天猫资源⭐️⭐️",
             "api": "https://www.tianmaozy.com/api.php/provide/vod/at/xml"
         },
 		 {
             "type": 0,
-            "name": "影图影视⭐️⭐️",
+            "name": "🎬影图影视⭐️⭐️",
             "api": "https://cj.vodimg.top/api.php/provide/vod/at/xml"
         },
 	     {
             "type": 1,
-            "name": "爱旦影视⭐️⭐️",
+            "name": "🥚爱旦影视⭐️⭐️",
             "api": "https://lovedan.net/api.php/provide/vod/"
         },
         {
             "type": 1,
-            "name": "小草影视⭐️⭐️",
+            "name": "🍀小草影视⭐️⭐️",
             "api": "https://www.xsgj.net/api.php/provide/vod/"
+        },
+        {
+            "type": 1,
+            "name": "🐯虎牙影视⭐️⭐️",
+            "api": "https://www.huyaapi.com/api.php/provide/vod/"
+        },
+        {
+            "type": 1,
+            "name": "🌊新浪影视⭐️⭐️",
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod"
+        },
+        {
+            "type": 1,
+            "name": "👌39影视⭐️⭐️",
+            "api": "https://www.39kan.com/api.php/provide/vod"
         },
 	    {
             "type": 1,
-            "name": "无尽影视⭐️",
+            "name": "🈚️无尽影视⭐️",
             "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/"
         },
 	     {
@@ -44,27 +59,27 @@
         },
 		 {
             "type": 0,
-            "name": "八戒资源⭐️",
+            "name": "🐷八戒资源⭐️",
             "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php"
         },
 		{
             "type": 0,
-            "name": "红牛资源⭐️",
+            "name": "🐮红牛资源⭐️",
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml"
         },
 		 {
             "type": 0,
-            "name": "飞速资源⭐️",
+            "name": "🕊飞速资源⭐️",
             "api": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/at/xmlsea"
         },
 		{
             "type": 0,
-            "name": "天空云⭐️",
+            "name": "🌎天空云⭐️",
             "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8"
         },
 		{
             "type": 0,
-            "name": "天空资源⭐️",
+            "name": "🌍天空资源⭐️",
             "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml"
         },
 		{
@@ -79,7 +94,7 @@
         },
 	     {
             "type": 0,
-            "name": "阳光资源⭐️",
+            "name": "🌞阳光资源⭐️",
             "api": "https://www.xxzy.org/api.php/provide/vod/at/xml"
         },
 	     {
@@ -99,7 +114,7 @@
         },
         {
             "type": 0,
-            "name": "樱花资源⭐️",
+            "name": "🌸樱花资源⭐️",
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml"
         },
         {
@@ -135,7 +150,7 @@
         },
         {
             "type": 0,
-            "name": "卧龙资源⭐️",
+            "name": "卧龙资源⭐️🐉",
             "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml"
         },
 	     {
@@ -145,68 +160,68 @@
         },
         {
             "type": 6,
-            "name": "环亚资源⭐️18",
+            "name": "环亚资源⭐️🔞",
             "api": "http://wmcj8.com/inc/sapi.php"
         },
 	{
             "type": 6,
-            "name": "番外采集⭐️18",
+            "name": "番外采集⭐️🔞",
             "api": "http://fhapi9.com/api.php/provide/vod/at/xml"
         },
           {
             "type": 1,
-            "name": "jkun资源⭐️18",
+            "name": "jkun资源⭐️🔞",
             "api": "https://jkunzyapi.com/api.php/provide/vod"
         },
 		 {
             "type": 6,
-            "name": "玖玖资源⭐️18",
+            "name": "玖玖资源⭐️🔞",
             "api": "http://99zywcj.com/inc/sapi.php"
         },
 		 {
             "type": 6,
-            "name": "久草资源⭐️18",
+            "name": "久草资源⭐️🔞",
             "api": "http://jcspcj8.com/sapi"
         },
 		 {
             "type": 6,
-            "name": "玖玖资源⭐️18",
+            "name": "玖玖资源⭐️🔞",
             "api": "http://99zywcj.com/inc/sck.php"
         },
 	{
             "type": 6,
-            "name": "秀色资源⭐️",
+            "name": "秀色资源⭐️🔞",
             "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml"
         },
 	{
             "type": 7,
-            "name": "番资源⭐️18",
+            "name": "番资源⭐️🔞",
             "api": "http://fhapi9.com/api.php/provide/vod"
         },
 	{
             "type": 7,
-            "name": "白资源⭐️18",
+            "name": "白资源⭐️🔞",
             "api": "https://www.kxgav.com/api/json.php"
         },
 		 {
             "type": 7,
-            "name": "水资源⭐️18",
+            "name": "水资源⭐️🔞",
             "api": "https://www.xrbsp.com/api/json.php"
         },
 		 {
             "type": 7,
-            "name": "香资源⭐️18",
+            "name": "香资源⭐️🔞",
             "api": "https://www.gdlsp.com/api/json.php"
         },
 		{
             "type": 7,
-            "name": "美资源⭐️18",
+            "name": "美资源⭐️🔞",
             "api": "https://www.msnii.com/api/json.php"
         },
 		
         {
             "type": 0,
-            "name": "唐人街",
+            "name": "唐人街⭐️",
             "api": "https://ipera.oimi.space/https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
         },
         {
