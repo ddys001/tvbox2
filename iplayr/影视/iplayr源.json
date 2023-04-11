@@ -148,6 +148,11 @@
             "name": "环亚资源⭐️18",
             "api": "http://wmcj8.com/inc/sapi.php"
         },
+	{
+            "type": 6,
+            "name": "番外采集⭐️18",
+            "api": "http://fhapi9.com/api.php/provide/vod/at/xml"
+        },
           {
             "type": 1,
             "name": "jkun资源⭐️18",
