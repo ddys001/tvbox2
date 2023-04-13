@@ -57,6 +57,11 @@
             "name": "🈚️无尽影视⭐️",
             "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/"
         },
+         {
+            "type": 1,
+            "name": "击破影视⭐️",
+            "api": "https://www.jipo.tv/api.php/provide/vod"
+        },
 	     {
             "type": 8,
             "name": "1985影视⭐️",
@@ -252,33 +257,33 @@
         {
             "type": 6,
             "name": "麻豆视频",
-            "api": "http://madouse.la/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/http://madouse.la/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "辣椒资源",
-            "api": "http://apilj.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/http://apilj.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "丝袜资源",
-            "api": "https://siwazyw.cc/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://siwazyw.cc/api.php/provide/vod/at/xml"
         },
        
         {
             "type": 6,
             "name": "一本道资源",
-            "api": "https://www.caiji03.com/home/cjapi/cfg8/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.caiji03.com/home/cjapi/cfg8/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "大屌丝资源",
-            "api": "http://www.caiji24.com/home/cjapi/p0d2/mc/vod/xml"
+            "api": "https://ipera.oimi.space/http://www.caiji24.com/home/cjapi/p0d2/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "我要啪啪",
-            "api": "http://www.caiji21.com/home/cjapi/klkl/mc/vod/xml"
+            "api": "https://ipera.oimi.space/http://www.caiji21.com/home/cjapi/klkl/mc/vod/xml"
         },
         {
             "type": 0,
@@ -393,263 +398,263 @@
         {
             "type": 6,
             "name": "芒果资源",
-            "api": "https://mgzyz1.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://mgzyz1.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "探探资源",
-            "api": "https://apittzy.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://apittzy.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "花魁资源",
-            "api": "https://caiji.huakuiapi.com/inc/api.php"
+            "api": "https://ipera.oimi.space/https://caiji.huakuiapi.com/inc/api.php"
         },
         {
             "type": 6,
             "name": "4000资源",
-            "api": "https://www.4000zy.com/inc/api.php"
+            "api": "https://ipera.oimi.space/https://www.4000zy.com/inc/api.php"
         },
         {
             "type": 6,
             "name": "色屌丝资源",
-            "api": "http://sdszyapi.com/home/cjapi/asbb/mc/vod/xml"
+            "api": "https://ipera.oimi.space/http://sdszyapi.com/home/cjapi/asbb/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "52AVAV",
-            "api": "https://52zyapi.com/home/cjapi/asda/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://52zyapi.com/home/cjapi/asda/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "水帘洞资源",
-            "api": "https://www.sldcaiji.com/home/cjapi/s6da/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.sldcaiji.com/home/cjapi/s6da/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "AV集中淫",
-            "api": "https://www.caiji22.com/home/cjapi/klp0/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.caiji22.com/home/cjapi/klp0/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "夜夜撸资源",
-            "api": "https://www.caiji23.com/home/cjapi/kls6/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.caiji23.com/home/cjapi/kls6/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "咪咪资源",
-            "api": "http://www.caiji25.com/home/cjapi/p0as/mc/vod/xml"
+            "api": "https://ipera.oimi.space/http://www.caiji25.com/home/cjapi/p0as/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "鲍鱼AV",
-            "api": "http://caiji26.com/home/cjapi/p0g8/mc/vod/xml"
+            "api": "https://ipera.oimi.space/http://caiji26.com/home/cjapi/p0g8/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "精工厂资源",
-            "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "点点娱乐",
-            "api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "小处女资源",
-            "api": "http://xcncaiji.com/home/cjapi/s6bb/mc/vod/xml"
+            "api": "https://ipera.oimi.space/http://xcncaiji.com/home/cjapi/s6bb/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "大MM资源",
-            "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "黄瓜TV资源",
-            "api": "https://www.caiji10.com/home/cjapi/cfs6/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.caiji10.com/home/cjapi/cfs6/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "快播盒子资源",
-            "api": "https://www.caiji09.com/home/cjapi/cfp0/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.caiji09.com/home/cjapi/cfp0/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "大香蕉资源",
-            "api": "https://www.caiji08.com/home/cjapi/cfkl/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.caiji08.com/home/cjapi/cfkl/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "日本AV在线",
-            "api": "https://www.caiji07.com/home/cjapi/cfcf/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.caiji07.com/home/cjapi/cfcf/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "久久热在线",
-            "api": "https://www.caiji06.com/home/cjapi/cfbb/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.caiji06.com/home/cjapi/cfbb/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "青青草视频",
-            "api": "https://www.caiji05.com/home/cjapi/cfda/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.caiji05.com/home/cjapi/cfda/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "麻豆视频",
-            "api": "https://www.caiji04.com/home/cjapi/cfc7/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.caiji04.com/home/cjapi/cfc7/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "草榴视频",
-            "api": "https://www.caiji02.com/home/cjapi/cfas/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.caiji02.com/home/cjapi/cfas/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "亚洲成人在线",
-            "api": "https://www.caiji01.com/home/cjapi/cfd2/mc/vod/xml"
+            "api": "https://ipera.oimi.space/https://www.caiji01.com/home/cjapi/cfd2/mc/vod/xml"
         },
         {
             "type": 6,
             "name": "99资源",
-            "api": "http://99zy.pw/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/http://99zy.pw/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "抖阴视频",
-            "api": "https://www.888dav.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://www.888dav.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "浪潮资源",
-            "api": "http://langchaozy6.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/http://langchaozy6.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "酷豆资源",
-            "api": "https://kudouzy.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://kudouzy.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "酷伦理",
-            "api": "https://api.kudian70.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://api.kudian70.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "爱播资源",
-            "api": "https://cj.apiabzy.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://cj.apiabzy.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "美少女资源",
-            "api": "https://www.msnii.com/api/xml.php"
+            "api": "https://ipera.oimi.space/https://www.msnii.com/api/xml.php"
         },
         {
             "type": 6,
             "name": "淫水机资源",
-            "api": "https://www.xrbsp.com/api/xml.php"
+            "api": "https://ipera.oimi.space/https://www.xrbsp.com/api/xml.php"
         },
         {
             "type": 6,
             "name": "香奶儿资源",
-            "api": "https://www.gdlsp.com/api/xml.php"
+            "api": "https://ipera.oimi.space/https://www.gdlsp.com/api/xml.php"
         },
         {
             "type": 6,
             "name": "白嫖资源",
-            "api": "https://www.kxgav.com/api/xml.php"
+            "api": "https://ipera.oimi.space/https://www.kxgav.com/api/xml.php"
         },
         {
             "type": 6,
             "name": "小湿妹资源",
-            "api": "https://www.afasu.com/api/xml.php"
+            "api": "https://ipera.oimi.space/https://www.afasu.com/api/xml.php"
         },
         {
             "type": 6,
             "name": "黄AV资源",
-            "api": "https://www.pgxdy.com/api/xml.php"
+            "api": "https://ipera.oimi.space/https://www.pgxdy.com/api/xml.php"
         },
         {
             "type": 6,
             "name": "老鸭资源",
-            "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://api.apilyzy.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "乐播资源",
-            "api": "https://lbapi9.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://lbapi9.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "博天堂",
-            "api": "http://bttcj.com/inc/sapi.php"
+            "api": "https://ipera.oimi.space/http://bttcj.com/inc/sapi.php"
         },
         {
             "type": 6,
             "name": "JAV名优馆",
-            "api": "http://mygzycj.com/api.php"
+            "api": "https://ipera.oimi.space/http://mygzycj.com/api.php"
         },
         {
             "type": 6,
             "name": "AVZY6888资源",
-            "api": "http://m.7777688.com/inc/api.php"
+            "api": "https://ipera.oimi.space/http://m.7777688.com/inc/api.php"
         },
         {
             "type": 6,
             "name": "色色资源",
-            "api": "http://secj8.com/inc/sapi.php"
+            "api": "https://ipera.oimi.space/http://secj8.com/inc/sapi.php"
         },
        
         {
             "type": 6,
             "name": "久草资源",
-            "api": "http://jcspcj8.com/api"
+            "api": "https://ipera.oimi.space/http://jcspcj8.com/api"
         },
         {
             "type": 6,
             "name": "狼少年",
-            "api": "http://cjmygzy.com/inc/sapi.php"
+            "api": "https://ipera.oimi.space/http://cjmygzy.com/inc/sapi.php"
         },
         {
             "type": 6,
             "name": "富二代资源",
-            "api": "http://f2dcj6.com/sapi"
+            "api": "https://ipera.oimi.space/http://f2dcj6.com/sapi"
         },
         {
             "type": 6,
             "name": "字幕网",
-            "api": "http://zmcj88.com/sapi"
+            "api": "https://ipera.oimi.space/http://zmcj88.com/sapi"
         },
         {
             "type": 6,
             "name": "利来资源",
-            "api": "http://llzxcj.com/inc/sck.php"
+            "api": "https://ipera.oimi.space/http://llzxcj.com/inc/sck.php"
         },
         {
             "type": 6,
             "name": "番号资源",
-            "api": "http://fhapi9.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/http://fhapi9.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "鲨鱼资源",
-            "api": "https://shayuapi.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://shayuapi.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "速度资源",
-            "api": "http://www.ggmmzy.com:9999/inc/xml"
+            "api": "https://ipera.oimi.space/http://www.ggmmzy.com:9999/inc/xml"
         },
         {
             "type": 6,
             "name": "KK写真资源",
-            "api": "https://kkzy.me/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://kkzy.me/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "佳丽资源",
-            "api": "https://jializyzapi.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://jializyzapi.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 3,
@@ -1081,35 +1086,35 @@
         {
             "type": 7,
             "name": "探",
-            "api": "https://apittzy.com/api.php/provide/vod"
+            "api": "https://ipera.oimi.space/https://apittzy.com/api.php/provide/vod"
         },
        
         {
             "type": 6,
             "name": "佳",
-            "api": "https://api.jializyzapi.com/inc/api.php"
+            "api": "https://ipera.oimi.space/https://api.jializyzapi.com/inc/api.php"
         },
         
         {
             "type": 7,
             "name": "鲨",
-            "api": "https://shayuapi.com/api.php/provide/vod"
+            "api": "https://ipera.oimi.space/https://shayuapi.com/api.php/provide/vod"
         },
         {
             "type": 7,
             "name": "袜",
-            "api": "https://siwazyw.net/api.php/provide/vod"
+            "api": "https://ipera.oimi.space/https://siwazyw.net/api.php/provide/vod"
         },
         {
             "type": 7,
             "name": "乐",
-            "api": "https://lbapi9.com/api.php/provide/vod"
+            "api": "https://ipera.oimi.space/https://lbapi9.com/api.php/provide/vod"
         },
         
         {
             "type": 7,
             "name": "秀",
-            "api": "https://api.xiuseapi.com/api.php/provide/vod"
+            "api": "https://ipera.oimi.space/https://api.xiuseapi.com/api.php/provide/vod"
         },
         {
             "type": 0,
@@ -1145,22 +1150,22 @@
         {
             "type": 6,
             "name": "名优馆资源",
-            "api": "http://mygzycj.com/sapi.php"
+            "api": "https://ipera.oimi.space/http://mygzycj.com/sapi.php"
         },
         {
             "type": 6,
             "name": "大地资源",
-            "api": "http://dadiapi.com/sea_api.php"
+            "api": "https://ipera.oimi.space/http://dadiapi.com/sea_api.php"
         },
         {
             "type": 6,
             "name": "芒果AV",
-            "api": "http://www.mgav1.cc/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/http://www.mgav1.cc/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
             "name": "1024资源",
-            "api": "https://www.1024nf.com/api.php/provide/vod/at/xml"
+            "api": "https://ipera.oimi.space/https://www.1024nf.com/api.php/provide/vod/at/xml"
         },
        
         {
