@@ -228,7 +228,11 @@
             "name": "美资源⭐️🔞",
             "api": "https://www.msnii.com/api/json.php"
         },
-		
+	{
+            "type": 1,
+            "name": "老鸨资源⭐️🔞",
+            "api": "https://apilbzy.com/api.php/provide/vod"
+        },	
         {
             "type": 0,
             "name": "唐人街⭐️",
