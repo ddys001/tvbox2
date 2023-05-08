@@ -1,15 +1,15 @@
 //https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master
 
 {
- "spider":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/fm0311.jar",
+ "spider":"https://ddjs.netlify.app/jar/fm0311.jar",
 
 
  "sites":[
-{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/js/360影视.js"},
-{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/js/drpy.js"},
-{"key":"bili","name":"绍兴 | 特色","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/js/绍兴特色.json"},
-//{"key":"bili","name":"绍兴| 特色","type":3,"api":"csp_Bili","ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/SX-bili/Bili.txt"},
-{"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/js/我的哔哩.js"},
+{"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://ddjs.netlify.app/lib/drpy2.min.js","ext":"https://ddjs.netlify.app/js/360影视.js"},
+{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://ddjs.netlify.app/lib/drpy2.min.js","ext":"https://ddjs.netlify.app/js/drpy.js"},
+{"key":"bili","name":"绍兴 | 特色","type":3,"api":"csp_Bili","ext":"https://ddjs.netlify.app/js/绍兴特色.json"},
+//{"key":"bili","name":"绍兴| 特色","type":3,"api":"csp_Bili","ext":"https://ddjs.netlify.app/SX-bili/Bili.txt"},
+{"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"https://ddjs.netlify.app/lib/drpy2.min.js","ext":"https://ddjs.netlify.app/js/我的哔哩.js"},
   
 //============================================================================================================================================================  
 {"key": "csp_GitCafe","name": "纸条┃云盘","type": 3,"api": "csp_Gitcafe","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "	https://alitoken.jason8888.repl.co/token.txt","jar": "https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/jar/pandazt.jar"},
