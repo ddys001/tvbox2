@@ -59,7 +59,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://alitoken.jason8888.repl.co/token.txt",
-            "jar": "./jar/ali-fan.jar"
+            "jar": "./jar/fan.jar"
         },
         {
             "key": "mtv_云搜资源",
@@ -70,7 +70,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://alitoken.jason8888.repl.co/token.txt",
-            "jar": "./jar/ali-fan.jar"
+            "jar": "./jar/fan.jar"
         },
         {
             "key": "mtv_找搜资源",
@@ -81,7 +81,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://alitoken.jason8888.repl.co/token.txt$$$yingshi$$$abcd1234",
-            "jar": "./jar/ali-fan.jar"
+            "jar": "./jar/fan.jar"
         },
         {
             "key": "mtv_易搜资源",
@@ -92,7 +92,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://alitoken.jason8888.repl.co/token.txt",
-            "jar": "./jar/ali-fan.jar"
+            "jar": "./jar/fan.jar"
         },
         {
             "key": "mtv_盘搜资源",
@@ -103,7 +103,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://alitoken.jason8888.repl.co/token.txt",
-            "jar": "./jar/ali-fan.jar"
+            "jar": "./jar/fan.jar"
         },
    {
             "key": "mtv_戏曲杂苑",
@@ -124,7 +124,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://alitoken.jason8888.repl.co/token.txt",
-            "jar": "./jar/0407fty.jar"   
+            "jar": "./jar/fan.jar"   
         },
         {
             "key": "小草",
