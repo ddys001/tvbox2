@@ -19,7 +19,7 @@
 *   互助研究院:[https://t.me/update_help](https://t.me/update_help)
 *   Leeco-雪花社:[https://t.me/xuehuashe](https://t.me/xuehuashe)
 
-###### 番茄[](https://congcong0806.github.io/2018/04/24/Telegram/#%E7%BF%BB%E5%A2%99)
+###### 西瓜🍉[](https://congcong0806.github.io/2018/04/24/Telegram/#%E7%BF%BB%E5%A2%99)
 
 *   搬瓦工 (BandwagonHost):[https://t.me/BandwagonHostUsers](https://t.me/BandwagonHostUsers)
 *   机场交流群:[https://t.me/rixCloud_User](https://t.me/rixCloud_User)
