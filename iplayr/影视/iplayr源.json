@@ -243,6 +243,11 @@
             "name": "唐人街⭐️",
             "api": "https://ipera.oimi.space/https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
         },
+	     {
+            "type": 1,
+            "name": "暴风影视⭐️",
+            "api": "https://bfzyapi.com/api.php/provide/vod"
+        },
         {
             "type": 8,
             "name": "独播库",
