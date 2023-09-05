@@ -5,117 +5,117 @@
         "key": "kunyu77",
         "name": "豆豆｜双七",
         "type": 3,
-        "api": "assets://js/kunyu77_open.js"
+        "api": "./js/kunyu77_open.js"
       },
       {
         "key": "wogg",
         "name": "豆豆｜玩偶",
         "type": 3,
-        "api": "assets://js/wogg.js",
+        "api": "./js/wogg.js",
         "ext": "https://ddys.ddzyz.link/TVBox/token.txt"
       },
       {
         "key": "ikanbot",
         "name": "豆豆｜爱看",
         "type": 3,
-        "api": "assets://js/ikanbot_open.js"
+        "api": "./js/ikanbot_open.js"
       },
        {
         "key": "czzy",
         "name": "豆豆｜厂长",
         "type": 3,
-        "api": "assets://js/czzy_open.js"
+        "api": "./js/czzy_open.js"
       },
 	    	  {
         "key": "czys",
         "name": "豆豆｜厂长2",
         "type": 3,
-        "api": "assets://js/czzy2_open.js"
+        "api": "./js/czzy2_open.js"
       },
 	  {
         "key": "kkys",
         "name": "豆豆｜快看",
         "type": 3,
-        "api": "assets://js/kkys_open.js"
+        "api": "./js/kkys_open.js"
       },
 	   {
           "key": "subaibai",
           "name": "豆豆｜素白白",
           "type": 3,
-          "api": "assets://js/subaibai_open.js"
+          "api": "./js/subaibai_open.js"
       },
 	  {
           "key": "kuqi",
           "name": "豆豆｜酷奇MV",
           "type": 3,
-          "api": "assets://js/kuqimv_open.js"
+          "api": "./js/kuqimv_open.js"
       },
 	  {
           "key": "libvio",
           "name": "豆豆｜libvio",
           "type": 3,
-          "api": "assets://js/libvio_open.js"
+          "api": "./js/libvio_open.js"
       },
 	   {
           "key": "bili",
           "name": "豆豆｜爱我绍兴",
           "type": 3,
-          "api": "assets://js/mybili_open.js"
+          "api": "./js/mybili_open.js"
       },
 	  	  {
         "key": "230ts",
         "name": "豆豆｜爱上听书",
         "type": 3,
-        "api": "assets://js/230ts_open.js"
+        "api": "./js/230ts_open.js"
       },
 	  	  {
         "key": "ngys",
         "name": "豆豆｜南瓜",
         "type": 3,
-        "api": "assets://js/ng_open.js"
+        "api": "./js/ng_open.js"
       },
       {
         "key": "duboku",
         "name": "豆豆｜独播库（魔法🚀）",
         "type": 3,
-        "api": "assets://js/duboku_open.js"
+        "api": "./js/duboku_open.js"
       },
       {
         "key": "nivod",
         "name": "豆豆｜泥巴影视（魔法🚀）",
         "type": 3,
-        "api": "assets://js/nivod_op.js",
+        "api": "./js/nivod_op.js",
          "ext": "888解忧愁"
       },
 	  {
         "key": "dbk",
         "name": "豆豆｜独播库（国内）",
         "type": 3,
-        "api": "assets://js/duboku2_open.js"
+        "api": "./js/duboku2_open.js"
       },
 	  {
         "key": "mtsp",
         "name": "18禁㊙｜蜜桃",
         "type": 3,
-        "api": "assets://js/mtsp_open.js"
+        "api": "./js/mtsp_open.js"
       },
 	  {
         "key": "18av",
         "name": "18禁㊙｜18AV",
         "type": 3,
-        "api": "assets://js/18a_open.js"
+        "api": "./js/18a_open.js"
       },
 	  {
         "key": "xiaoya",
         "name": "丫仙女",
         "type": 3,
-        "api": "assets://js/xiaoya_open.js"
+        "api": "./js/xiaoya_open.js"
       },
       {
         "key": "xiaoya-tv",
         "name": "小雅",
         "type": 3,
-        "api": "assets://js/xiaoya.js",
+        "api": "./js/xiaoya.js",
         "ext": "http://43.143.89.40:5678/vod1"
       }
   
@@ -127,7 +127,7 @@
         "key": "alist",
         "name": "Alist",
         "type": 40,
-        "api": "assets://js/alist_open.js",
+        "api": "./js/alist_open.js",
         "ext": [
           {
             "name": "🙋丫仙女",
