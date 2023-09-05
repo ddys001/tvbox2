@@ -5,7 +5,7 @@
         "key": "kunyu77",
         "name": "豆豆｜双七",
         "type": 3,
-        "api": "./js/kunyu77_open.js"
+        "api": "kunyu77_open.js"
       },
       {
         "key": "wogg",
