@@ -12,7 +12,7 @@
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{
 			"key": "阿里夸克配置",
-			"name": "阿里夸克配置",
+			"name": "阿里夸克及彈幕配置",
 			"type": 3,
 			"api": "csp_Config",
 			"searchable": 0,
@@ -86,6 +86,22 @@
 			"searchable": 1,
 			"changeable": 1,
 			"ext": "null$$$1"
+		},
+		{
+			"key": "河马",
+			"name": "河马┃App",
+			"type": 3,
+			"api": "csp_Hmys",
+			"playerType": 1,
+			"ext": "https://m.jmzp.net.cn$$$null$$$1"
+		},
+		{
+			"key": "天天",
+			"name": "天天┃App",
+			"type": 3,
+			"api": "csp_TTian",
+			"playerType": 1,
+			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
 		{
 			"key": "蝴蝶",
@@ -802,12 +818,6 @@
 						"urls": [
 							"proxy://do=live&type=txt&ext=http://home.jundie.top:81/ray/tvlive.txt"
 						]
-					},
-					{
-						"name":"ETH",
-						"urls":[
-							"proxy://do=live&type=eth&a=0"
-						]
 					}
 				]
 			}
@@ -915,8 +925,7 @@
 					"v.cdnlz"
 				],
 				"regex": [
-					"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-					"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+					"18.5333"
 				]
 			},
 			{
@@ -926,8 +935,8 @@
 					"hd.ffzy"
 				],
 				"regex": [
-					"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-					"#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+					"25.0666",
+					"25.08"
 				]
 			},
 			{"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
