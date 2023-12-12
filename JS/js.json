@@ -2,8 +2,22 @@
  "sites":[
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},  
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","ext":"./alist.json"},
 {"key":"drpy_js_我的哔哩","name":"戏曲绍兴","type":3,"api":"./lib/drpy2.min.js","ext":"./绍兴.js"},
+{"key": "csp_Alistxy","name": "🅿️Alist网盘♻️","type": 3,
+      "jar": "https://github.ddys001.link/yydfys/yydf/main/yydf/AListxy.jar",
+      "api": "csp_AListxy","searchable": 1,"quickSearch": 1,
+      "ext": {"drives": [
+      {"name": "🐭豆豆搜索1","server": "http://111.224.106.109:5678/","version": 3},
+      {"name": "🐭豆豆搜索2","server": "http://60.204.139.228:5678","version": 3},
+      {"name": "🐭豆豆搜索3","server": "http://42.193.116.100:5678","version": 3},
+      {"name": "🐭豆豆搜索4","server": "http://112.193.0.49:5678","version": 3},
+      {"name": "🐭豆豆搜索5","server": "http://221.15.196.78:5678","version": 3},
+      {"name": "🐭豆豆搜索6","server": "http://111.170.126.147:5678","version": 3},
+      {"name": "🐭豆豆搜索7","server": "http://124.71.206.236:5678","version": 3}, 
+      {"name": "🐭豆豆搜索8","server": "http://124.70.148.142:5678","version": 3}, 
+      {"name": "🐭豆豆搜索9","server": "http://111.67.195.139:5678","version": 3}, 
+      {"name": "🐭豆豆搜索10","server": "http://38.47.123.192:5678","version": 3} ]}},    
+   
   
 {"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"}, 
 {"key":"drpy_js_量子资源","name":"影视 | 量子资源[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/量子资源.js"}, 
