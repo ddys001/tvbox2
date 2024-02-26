@@ -178,6 +178,11 @@
             "name": "腐剧影视⭐️",
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/ddys001/tvbox2/master/iplayr/DDYS/腐剧.json"
         },
+	{
+            "type": 1,
+            "name": "深林资源⭐️🔞",
+            "api": "http://senlinzy.com/api.php/provide/vod"
+        },    
         {
             "type": 6,
             "name": "环亚资源⭐️🔞",
